@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-06-05 18:28:55">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<application_name>Human Resources: Lifecycle Enterprise</application_name>
+<application_scope>sn_hr_le_ent</application_scope>
+<application_version>19.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Human Resources: Lifecycle Enterprise</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>c57e89b4478d82100aeaa144846d43b3</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>e562f66e1ba2461062f8ea46624bcb4b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_062d2a031b8d8a1062f8ea46624bcb69</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Pre-Hire">022d2a031b8d8a1062f8ea46624bcb67</activity_set><activity_to_rescind/><activity_type>fulfiller</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>reapprove</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description>Solicitar documentacion</description><display_order>400</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Service">4dfecd3f531322003585c3c606dc3420</fulfiller_activity><hr_criteria/><hr_service display_value="Solicitar documentación">35aa4ba3e7633200c1dc8a63c2f6a9fc</hr_service><hr_template/><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>substitute</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>062d2a031b8d8a1062f8ea46624bcb69</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Solicitar documentación</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_062d2a031b8d8a1062f8ea46624bcb69</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:19:02</sys_updated_on><system_template/><title>Solicitar documentación</title><use_badge_on_hr_service>true</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>-921304617</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>2162f66e1ba2461062f8ea46624bcb67</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e7555d0ea0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Solicitar documentación</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>e68d9e93e4c9ca1066901c5605dbc990</update_guid>
+<update_guid_history>e68d9e93e4c9ca1066901c5605dbc990:-921304617,e28d9e9340c9ca10d31436c576ba398e:-2006915544</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_field_mapping_e1742adb1bc9ca1062f8ea46624bcbb6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_field_mapping"><sn_hr_le_activity_field_mapping action="INSERT_OR_UPDATE"><activity display_value="Eliminar acceso a ServiceNow">a13426db1bc9ca1062f8ea46624bcb05</activity><input_mandatory>false</input_mandatory><map_from>field</map_from><map_from_custom_script/><map_from_custom_text/><map_from_field>opened_for</map_from_field><map_from_table>sn_hr_le_case</map_from_table><map_to_field>opened_for</map_to_field><map_to_flow_input/><map_to_table>sn_hr_core_case</map_to_table><map_to_variable/><sys_class_name>sn_hr_le_activity_field_mapping</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:49:16</sys_created_on><sys_domain>global</sys_domain><sys_id>e1742adb1bc9ca1062f8ea46624bcbb6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>opened_for</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_field_mapping_e1742adb1bc9ca1062f8ea46624bcbb6</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:49:16</sys_updated_on><valid>true</valid></sn_hr_le_activity_field_mapping><sys_translated_text action="delete_multiple" query="documentkey=e1742adb1bc9ca1062f8ea46624bcbb6"/></record_update>]]></payload>
+<payload_hash>225851724</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>2162f66e1ba2461062f8ea46624bcb6a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e757183510000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>opened_for</target_name>
+<type>Activity Field Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>bd742adbcac9ca10303b8647eef53cb7</update_guid>
+<update_guid_history>bd742adbcac9ca10303b8647eef53cb7:225851724</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_a113ae5b1bc9ca1062f8ea46624bcbb3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>true</active><approval_options/><at_a_glance_uib_view display_value="At a Glance UIB" name="ataglance_uib">88c750695331301038e4ddeeff7b12ca</at_a_glance_uib_view><at_a_glance_view display_value="At a Glance" name="ataglance">bca2a4f3b73333001d69c2daee11a9bb</at_a_glance_view><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config/><case_options/><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>simple</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>Eliminar sistema de pago</name><producer/><service_table>sn_hr_core_case_payroll</service_table><service_table_fields/><subject_person_access>true</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:43:37</sys_created_on><sys_domain>global</sys_domain><sys_id>a113ae5b1bc9ca1062f8ea46624bcbb3</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Eliminar sistema de pago</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_service_a113ae5b1bc9ca1062f8ea46624bcbb3</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 16:33:04</sys_updated_on><template display_value="Eliminar sistema de pago">617b2a5e1b79065018398485604bcb14</template><topic_detail display_value="Payroll System">b9afca6d3b622200705d86a734efc498</topic_detail><value>eliminar_sistema_de_pago</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=a113ae5b1bc9ca1062f8ea46624bcbb3"/></record_update>]]></payload>
+<payload_hash>68358384</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>2562f66e1ba2461062f8ea46624bcb66</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f258d8f450000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Eliminar sistema de pago</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>6a7b2a5e6b7906506664c94134bd5e84</update_guid>
+<update_guid_history>6a7b2a5e6b7906506664c94134bd5e84:68358384,8a33629bbac9ca106b739e2a00264bcc:-169663747,0323629b33c9ca10957c4d5bc0419116:916101927</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_field_mapping_38a1aed71bc9ca1062f8ea46624bcb09</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_field_mapping"><sn_hr_le_activity_field_mapping action="INSERT_OR_UPDATE"><activity display_value="Eliminar correo corporativo">56516ad71bc9ca1062f8ea46624bcb14</activity><input_mandatory>false</input_mandatory><map_from>field</map_from><map_from_custom_script/><map_from_custom_text/><map_from_field>opened_for</map_from_field><map_from_table>sn_hr_le_case</map_from_table><map_to_field>opened_for</map_to_field><map_to_flow_input/><map_to_table>sn_hr_core_case</map_to_table><map_to_variable/><sys_class_name>sn_hr_le_activity_field_mapping</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:36:56</sys_created_on><sys_domain>global</sys_domain><sys_id>38a1aed71bc9ca1062f8ea46624bcb09</sys_id><sys_mod_count>0</sys_mod_count><sys_name>opened_for</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_field_mapping_38a1aed71bc9ca1062f8ea46624bcb09</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:36:56</sys_updated_on><valid>true</valid></sn_hr_le_activity_field_mapping><sys_translated_text action="delete_multiple" query="documentkey=38a1aed71bc9ca1062f8ea46624bcb09"/></record_update>]]></payload>
+<payload_hash>1548068070</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>2562f66e1ba2461062f8ea46624bcb69</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e7566357b0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>opened_for</target_name>
+<type>Activity Field Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>34a1aed730c9ca108d466d600c3c680b</update_guid>
+<update_guid_history>34a1aed730c9ca108d466d600c3c680b:1548068070</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_3d812ed71bc9ca1062f8ea46624bcb32</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>true</active><approval_options/><at_a_glance_uib_view display_value="At a Glance UIB" name="ataglance_uib">88c750695331301038e4ddeeff7b12ca</at_a_glance_uib_view><at_a_glance_view display_value="At a Glance" name="ataglance">bca2a4f3b73333001d69c2daee11a9bb</at_a_glance_view><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config/><case_options/><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>simple</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>Eliminar correo corporativo</name><producer/><service_table>sn_hr_le_case</service_table><service_table_fields/><subject_person_access>true</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:36:50</sys_created_on><sys_domain>global</sys_domain><sys_id>3d812ed71bc9ca1062f8ea46624bcb32</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Eliminar correo corporativo</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_service_3d812ed71bc9ca1062f8ea46624bcb32</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 16:32:25</sys_updated_on><template display_value="Eliminar correo corporativo">d45b665e1b79065018398485604bcbd6</template><topic_detail display_value="Account Notification">84ebedbc53322200eb7c0a1806dc3458</topic_detail><value>eliminar_correo_corporativo</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=3d812ed71bc9ca1062f8ea46624bcb32"/></record_update>]]></payload>
+<payload_hash>-1484194909</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>2962f66e1ba2461062f8ea46624bcb65</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f258cf7fb0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Eliminar correo corporativo</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>455b665e84790650a7be716e3ea1e005</update_guid>
+<update_guid_history>455b665e84790650a7be716e3ea1e005:-1484194909,18d1221b7ac9ca10f4c606f2c55bdfe0:357627337,2b91aed7ccc9ca10c756d59ce89ea403:-296830495</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_f12d2a031b8d8a1062f8ea46624bcb5d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Day 30">b52d2a031b8d8a1062f8ea46624bcb5c</activity_set><activity_to_rescind/><activity_type>employee</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>resubmit</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description/><display_order>100</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Task">b09d36cfc3132200b599b4ad81d3aef5</fulfiller_activity><hr_criteria/><hr_service/><hr_template display_value="Encuesta de satisfacción del proceso">74284a270bf00300eba42da0d5673a7a</hr_template><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>skip</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>f12d2a031b8d8a1062f8ea46624bcb5d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Encuestra del proceso de onboarding</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_f12d2a031b8d8a1062f8ea46624bcb5d</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:40:28</sys_updated_on><system_template/><title>Encuestra del proceso de onboarding</title><use_badge_on_hr_service>false</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>-653975101</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>2962f66e1ba2461062f8ea46624bcb68</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756971100000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Encuestra del proceso de onboarding</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>2872ae1b40c9ca10f9df43a4c9713ce4</update_guid>
+<update_guid_history>2872ae1b40c9ca10f9df43a4c9713ce4:-653975101,ec72ae1b23c9ca10aa98e735256ff4e2:1978501767</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_type_f52d2a031b8d8a1062f8ea46624bcb3e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_type"><sn_hr_le_type action="INSERT_OR_UPDATE"><active>true</active><description>El Lifecycle Event para onboardings de empleados</description><display_activity_set>true</display_activity_set><event_type>onboarding</event_type><sort_activities_by>due_date</sort_activities_by><sys_class_name>sn_hr_le_type</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>f52d2a031b8d8a1062f8ea46624bcb3e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Onboarding nuevos empleados</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_type_f52d2a031b8d8a1062f8ea46624bcb3e</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:49:36</sys_updated_on><title>Onboarding nuevos empleados</title></sn_hr_le_type></record_update>]]></payload>
+<payload_hash>986466966</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>2962f66e1ba2461062f8ea46624bcb6b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e719509550000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Onboarding nuevos empleados</target_name>
+<type>Manage Lifecycle Event</type>
+<update_domain>global</update_domain>
+<update_guid>4a5d2a03748d8a10d6939cf0622a5709</update_guid>
+<update_guid_history>4a5d2a03748d8a10d6939cf0622a5709:986466966,425d2a03778d8a10c8555a674455eb08:-56857410</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_862d2a031b8d8a1062f8ea46624bcb6c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Pre-Hire">022d2a031b8d8a1062f8ea46624bcb67</activity_set><activity_to_rescind/><activity_type>fulfiller</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>reapprove</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description>Esta actividad hace que el agente de HR empiece los pasos de chequeo médico</description><display_order>300</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Service">4dfecd3f531322003585c3c606dc3420</fulfiller_activity><hr_criteria/><hr_service display_value="Solicitar chequeo médico">7ac3ece853322200d901a7e6a11c08ad</hr_service><hr_template/><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>substitute</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>862d2a031b8d8a1062f8ea46624bcb6c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Chequeo médico</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_862d2a031b8d8a1062f8ea46624bcb6c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:05:14</sys_updated_on><system_template/><title>Chequeo médico</title><use_badge_on_hr_service>true</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>-564193170</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>2d62f66e1ba2461062f8ea46624bcb67</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e7549318c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Chequeo médico</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>ec6a56136bc9ca10cc0944e7fe0c1cad</update_guid>
+<update_guid_history>ec6a56136bc9ca10cc0944e7fe0c1cad:-564193170,646a56130fc9ca105a148f3e262a59ac:929723700</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_set_712d2a031b8d8a1062f8ea46624bcb4c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_set"><sn_hr_le_activity_set action="INSERT_OR_UPDATE"><active>true</active><activity_set_dependencies>022d2a031b8d8a1062f8ea46624bcb67</activity_set_dependencies><audience/><combination_type>and</combination_type><condition/><condition_table/><date_offset_quantity/><date_offset_type/><date_offset_units/><description>Actividades previas al primer día del empleado</description><display_order>200</display_order><display_title>Previo día 1</display_title><display_to_opened_for>true</display_to_opened_for><display_to_subject_person>true</display_to_subject_person><evaluation_interval>1970-01-01 04:00:00</evaluation_interval><ignore_empty_date>false</ignore_empty_date><le_type display_value="Onboarding nuevos empleados">f52d2a031b8d8a1062f8ea46624bcb3e</le_type><sys_class_name>sn_hr_le_activity_set</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>712d2a031b8d8a1062f8ea46624bcb4c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Previo día 1</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_set_712d2a031b8d8a1062f8ea46624bcb4c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:41:43</sys_updated_on><title>Previo día 1</title><trigger_field/><trigger_script/><trigger_table/><trigger_type>other_activity_sets</trigger_type></sn_hr_le_activity_set></record_update>]]></payload>
+<payload_hash>-846668388</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>2d62f66e1ba2461062f8ea46624bcb6a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756a98290000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Previo día 1</target_name>
+<type>Activity Set</type>
+<update_domain>global</update_domain>
+<update_guid>03b26a5b6ec9ca104a92f5fd81139ee8</update_guid>
+<update_guid_history>03b26a5b6ec9ca104a92f5fd81139ee8:-846668388,862d2a03758d8a10b0fc6df1796647ad:647737101,8a2d2a03e78d8a10dc82b40bfa06daab:-1498962002</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_criteria_8089959c3b98041452ca655593efc4aa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_criteria"><sn_hr_core_criteria action="INSERT_OR_UPDATE"><active>false</active><description/><name>Needs Corporate Credit Card</name><related_user_criteria display_value="Needs Corporate Credit Card (HR Criteria)">b9891d103b50c41452ca655593efc44a</related_user_criteria><sys_class_name>sn_hr_core_criteria</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-10 18:05:11</sys_created_on><sys_domain>global</sys_domain><sys_id>8089959c3b98041452ca655593efc4aa</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Needs Corporate Credit Card</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_criteria_8089959c3b98041452ca655593efc4aa</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-17 11:08:49</sys_updated_on><table/><user_column/></sn_hr_core_criteria></record_update>]]></payload>
+<payload_hash>2074260152</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6162f66e1ba2461062f8ea46624bcb4c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e4c1996360000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Needs Corporate Credit Card</target_name>
+<type>HR Criteria</type>
+<update_domain>global</update_domain>
+<update_guid>be7e0db4508d8210f15fb004ebef484e</update_guid>
+<update_guid_history>be7e0db4508d8210f15fb004ebef484e:2074260152,be7e0db4558d821041f930c1fa03c14d:1653361775</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_979f1a571bc9ca1062f8ea46624bcbd6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>true</active><approval_options/><at_a_glance_uib_view display_value="At a Glance UIB" name="ataglance_uib">88c750695331301038e4ddeeff7b12ca</at_a_glance_uib_view><at_a_glance_view display_value="At a Glance" name="ataglance">bca2a4f3b73333001d69c2daee11a9bb</at_a_glance_view><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config/><case_options/><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>simple</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>Crear correo corporativo</name><producer/><service_table>sn_hr_le_case</service_table><service_table_fields/><subject_person_access>true</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:28:29</sys_created_on><sys_domain>global</sys_domain><sys_id>979f1a571bc9ca1062f8ea46624bcbd6</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Crear correo corporativo</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_service_979f1a571bc9ca1062f8ea46624bcbd6</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 16:28:40</sys_updated_on><template display_value="Crear correo corporativo">523a6ada1b79065018398485604bcb87</template><topic_detail display_value="Account Notification">84ebedbc53322200eb7c0a1806dc3458</topic_detail><value>crear_correo_corporativo</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=979f1a571bc9ca1062f8ea46624bcbd6"/></record_update>]]></payload>
+<payload_hash>-7768440</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6162f66e1ba2461062f8ea46624bcb66</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f258989430000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Crear correo corporativo</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>ca7aeeda757906501664261831dd0447</update_guid>
+<update_guid_history>ca7aeeda757906501664261831dd0447:-7768440,16bf5e57f4c9ca100ded4545305477ac:915119669,55bfda57bcc9ca1010ef6a18f1deca2d:1799994207</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_field_mapping_2043e29b1bc9ca1062f8ea46624bcb0f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_field_mapping"><sn_hr_le_activity_field_mapping action="INSERT_OR_UPDATE"><activity display_value="Eliminar Sistema de Pago">fff26e5b1bc9ca1062f8ea46624bcba8</activity><input_mandatory>false</input_mandatory><map_from>field</map_from><map_from_custom_script/><map_from_custom_text/><map_from_field>subject_person</map_from_field><map_from_table>sn_hr_le_case</map_from_table><map_to_field>subject_person</map_to_field><map_to_flow_input/><map_to_table>sn_hr_core_case</map_to_table><map_to_variable/><sys_class_name>sn_hr_le_activity_field_mapping</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:44:01</sys_created_on><sys_domain>global</sys_domain><sys_id>2043e29b1bc9ca1062f8ea46624bcb0f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>subject_person</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_field_mapping_2043e29b1bc9ca1062f8ea46624bcb0f</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:44:01</sys_updated_on><valid>true</valid></sn_hr_le_activity_field_mapping><sys_translated_text action="delete_multiple" query="documentkey=2043e29b1bc9ca1062f8ea46624bcb0f"/></record_update>]]></payload>
+<payload_hash>261834210</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6162f66e1ba2461062f8ea46624bcb69</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756cb2c70000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>subject_person</target_name>
+<type>Activity Field Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>f043e29b2ec9ca1018a288d303221a10</update_guid>
+<update_guid_history>f043e29b2ec9ca1018a288d303221a10:261834210</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_00354c800f9750102208555db4767e4b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>false</active><approval_options/><at_a_glance_uib_view/><at_a_glance_view/><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config/><case_options>c2d25d092f232200a9e7a310c18c954c</case_options><close_when/><description/><flow display_value="Change Start Date">031cb5e90fd710102208555db4767ea6</flow><fulfillment_instructions/><fulfillment_type>flow</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>Change Start Date</name><producer display_value="Change Start Date">fdd04ccc0f5750102208555db4767e22</producer><service_table>sn_hr_core_case_talent_management</service_table><service_table_fields/><subject_person_access>true</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-11 21:01:45</sys_created_on><sys_domain>global</sys_domain><sys_id>00354c800f9750102208555db4767e4b</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Change Start Date</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_service_00354c800f9750102208555db4767e4b</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:06:12</sys_updated_on><template display_value="Change Start Date">7454c0800f9750102208555db4767ec1</template><topic_detail display_value="Manage Start Date">eb0644c00f9750102208555db4767e4a</topic_detail><value>change_start_date</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=00354c800f9750102208555db4767e4b"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>00354c800f9750102208555db4767e4b</documentkey><fieldname>name</fieldname><language>es</language><sys_created_by/><sys_created_on/><sys_id>2dd1e08847b0ce500aeaa144846d43fa</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><tablename>sn_hr_core_service</tablename><value>Cambiar fecha de inicio</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>-410785372</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6562f66e1ba2461062f8ea46624bcb65</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a011bc0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Change Start Date</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>ae10b212614d4a10138660be688d49fc</update_guid>
+<update_guid_history>ae10b212614d4a10138660be688d49fc:-410785372,e610b212cd4d4a10d3f265aceeef7872:-1451831171</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_ece06e971bc9ca1062f8ea46624bcb64</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Pre-boarding">712d2a031b8d8a1062f8ea46624bcb4c</activity_set><activity_to_rescind/><activity_type>employee</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>resubmit</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description/><display_order>100</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Task">b09d36cfc3132200b599b4ad81d3aef5</fulfiller_activity><hr_criteria/><hr_service/><hr_template display_value="Firmar el contrato">5311a2d71bc9ca1062f8ea46624bcb3b</hr_template><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>skip</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:34:45</sys_created_on><sys_domain>global</sys_domain><sys_id>ece06e971bc9ca1062f8ea46624bcb64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Firmar el contrato</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_ece06e971bc9ca1062f8ea46624bcb64</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:34:45</sys_updated_on><system_template/><title>Firmar el contrato</title><use_badge_on_hr_service>false</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>-785222601</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6562f66e1ba2461062f8ea46624bcb68</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756435850000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Firmar el contrato</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>7421a2d796c9ca10c996edb846a94b28</update_guid>
+<update_guid_history>7421a2d796c9ca10c996edb846a94b28:-785222601</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_type_a889edd83b14405052ca655593efc458</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_type"><sn_hr_le_type action="INSERT_OR_UPDATE"><active>false</active><description>This Lifecycle Event is for Employee Onboarding</description><display_activity_set>true</display_activity_set><event_type>onboarding</event_type><sort_activities_by>due_date</sort_activities_by><sys_class_name>sn_hr_le_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-09 23:49:57</sys_created_on><sys_domain>global</sys_domain><sys_id>a889edd83b14405052ca655593efc458</sys_id><sys_mod_count>8</sys_mod_count><sys_name>New Hire Onboarding (Demo)</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_type_a889edd83b14405052ca655593efc458</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-18 16:33:06</sys_updated_on><title>New Hire Onboarding (Demo)</title></sn_hr_le_type></record_update>]]></payload>
+<payload_hash>-896896421</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6562f66e1ba2461062f8ea46624bcb6b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18ef20dfcf20000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>New Hire Onboarding (Demo)</target_name>
+<type>Manage Lifecycle Event</type>
+<update_domain>global</update_domain>
+<update_guid>999b4f8f7965c6101b5684d5fc24c539</update_guid>
+<update_guid_history>999b4f8f7965c6101b5684d5fc24c539:-896896421,1d9b4f8f8e65c610147aeea44fc9cf37:-1288866509</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_56516ad71bc9ca1062f8ea46624bcb14</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Rescind">392d2a031b8d8a1062f8ea46624bcb3f</activity_set><activity_to_rescind display_value="Crear correo corporativo">107f56571bc9ca1062f8ea46624bcbf4</activity_to_rescind><activity_type>fulfiller</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>resubmit</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description/><display_order>100</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Service">4dfecd3f531322003585c3c606dc3420</fulfiller_activity><hr_criteria/><hr_service display_value="Eliminar correo corporativo">3d812ed71bc9ca1062f8ea46624bcb32</hr_service><hr_template/><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>skip</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:36:56</sys_created_on><sys_domain>global</sys_domain><sys_id>56516ad71bc9ca1062f8ea46624bcb14</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Eliminar correo corporativo</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_56516ad71bc9ca1062f8ea46624bcb14</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:36:56</sys_updated_on><system_template/><title>Eliminar correo corporativo</title><use_badge_on_hr_service>true</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>-1755534090</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6962f66e1ba2461062f8ea46624bcb67</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756635bc0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Eliminar correo corporativo</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>f4a1aed713c9ca10bf4c74afd9c65a0f</update_guid>
+<update_guid_history>f4a1aed713c9ca10bf4c74afd9c65a0f:-1755534090</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_set_392d2a031b8d8a1062f8ea46624bcb3f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_set"><sn_hr_le_activity_set action="INSERT_OR_UPDATE"><active>true</active><activity_set_dependencies/><audience/><combination_type>and</combination_type><condition/><condition_table/><date_offset_quantity/><date_offset_type/><date_offset_units/><description/><display_order>999999</display_order><display_title>Rescisión</display_title><display_to_opened_for>true</display_to_opened_for><display_to_subject_person>false</display_to_subject_person><evaluation_interval>1970-01-01 04:00:00</evaluation_interval><ignore_empty_date>true</ignore_empty_date><le_type display_value="Onboarding nuevos empleados">f52d2a031b8d8a1062f8ea46624bcb3e</le_type><sys_class_name>sn_hr_le_activity_set</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>392d2a031b8d8a1062f8ea46624bcb3f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Rescisión</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_set_392d2a031b8d8a1062f8ea46624bcb3f</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:46:48</sys_updated_on><title>Rescisión</title><trigger_field/><trigger_script/><trigger_table/><trigger_type>rescind</trigger_type></sn_hr_le_activity_set></record_update>]]></payload>
+<payload_hash>624690515</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6962f66e1ba2461062f8ea46624bcb6a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756f3cac0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Rescisión</target_name>
+<type>Activity Set</type>
+<update_domain>global</update_domain>
+<update_guid>91e36e9bb3c9ca100e9f4d825d6fac77</update_guid>
+<update_guid_history>91e36e9bb3c9ca100e9f4d825d6fac77:624690515,41f22e5bcfc9ca10d73da83ef595bef5:1950774083,49f22e5b3dc9ca10dda65f2a280af0f3:-1005976932</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_022d2a031b8d8a1062f8ea46624bcb5f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Day 1">f52d2a031b8d8a1062f8ea46624bcb5e</activity_set><activity_to_rescind/><activity_type>notification</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>resubmit</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description/><display_order>600</display_order><email_template display_value="Mensaje de bienvenida">d920a6971bc9ca1062f8ea46624bcb3f</email_template><flow/><from>HR Talent Management</from><fulfiller_activity display_value="Notification">9af80b38537232003585c3c606dc349d</fulfiller_activity><hr_criteria/><hr_service/><hr_template/><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>skip</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields>subject_person</recipient_fields><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>022d2a031b8d8a1062f8ea46624bcb5f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Mensaje de bienvenida</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_022d2a031b8d8a1062f8ea46624bcb5f</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:32:23</sys_updated_on><system_template/><title>Mensaje de bienvenida</title><use_badge_on_hr_service>false</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>1744556733</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6d62f66e1ba2461062f8ea46624bcb66</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e75620c4f0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Mensaje de bienvenida</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>52902e9787c9ca10b51e6c11dacb0083</update_guid>
+<update_guid_history>52902e9787c9ca10b51e6c11dacb0083:1744556733,96902e97b4c9ca10db9560376dff7181:-712050298</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_field_mapping_caef12971bc9ca1062f8ea46624bcbe1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_field_mapping"><sn_hr_le_activity_field_mapping action="INSERT_OR_UPDATE"><activity display_value="Crear correo corporativo">107f56571bc9ca1062f8ea46624bcbf4</activity><input_mandatory>false</input_mandatory><map_from>field</map_from><map_from_custom_script/><map_from_custom_text/><map_from_field>opened_for</map_from_field><map_from_table>sn_hr_le_case</map_from_table><map_to_field>opened_for</map_to_field><map_to_flow_input/><map_to_table>sn_hr_core_case</map_to_table><map_to_variable/><sys_class_name>sn_hr_le_activity_field_mapping</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:29:22</sys_created_on><sys_domain>global</sys_domain><sys_id>caef12971bc9ca1062f8ea46624bcbe1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>opened_for</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_field_mapping_caef12971bc9ca1062f8ea46624bcbe1</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:29:22</sys_updated_on><valid>true</valid></sn_hr_le_activity_field_mapping><sys_translated_text action="delete_multiple" query="documentkey=caef12971bc9ca1062f8ea46624bcbe1"/></record_update>]]></payload>
+<payload_hash>1225793827</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>6d62f66e1ba2461062f8ea46624bcb69</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e755f49a90000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>opened_for</target_name>
+<type>Activity Field Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>02ef1297c0c9ca1038f653756c68e2e4</update_guid>
+<update_guid_history>02ef1297c0c9ca1038f653756c68e2e4:1225793827</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_email_content_d920a6971bc9ca1062f8ea46624bcb3f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sn_hr_core_email_content"&gt;&lt;sn_hr_core_email_content action="INSERT_OR_UPDATE"&gt;&lt;description/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;Querido/a ${subject_person.first_name} ${subject_person.last_name},&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Le damos la bienvenida a al sistema de recursos humanos de la Universidad de Oviedo.&lt;/p&gt;
+&lt;p&gt;Recuerde que puede acceder al portal con todos los elementos disponibles para usted en &lt;a href="https://atlafysldemo4.service-now.com/"&gt;https://atlafysldemo4.service-now.com/uniovi&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Un saludo.&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;name&gt;Mensaje de bienvenida&lt;/name&gt;&lt;subject&gt;¡Bienvenid@ a la Universidad&lt;/subject&gt;&lt;sys_class_name&gt;sn_hr_core_email_content&lt;/sys_class_name&gt;&lt;sys_created_by&gt;aaron.admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-25 11:32:04&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;d920a6971bc9ca1062f8ea46624bcb3f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Mensaje de bienvenida&lt;/sys_name&gt;&lt;sys_package display_value="Human Resources: Lifecycle Events" source="sn_hr_le"&gt;532da270dad21200a4656ede91f9331e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Human Resources: Lifecycle Events"&gt;532da270dad21200a4656ede91f9331e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sn_hr_core_email_content_d920a6971bc9ca1062f8ea46624bcb3f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;aaron.admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-25 11:32:04&lt;/sys_updated_on&gt;&lt;table&gt;sn_hr_le_case&lt;/table&gt;&lt;type&gt;activity_notification&lt;/type&gt;&lt;/sn_hr_core_email_content&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1828053788</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>a162f66e1ba2461062f8ea46624bcb65</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e7561c25b0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table>sn_hr_le_case</table>
+<target_name>Mensaje de bienvenida</target_name>
+<type>Email Content</type>
+<update_domain>global</update_domain>
+<update_guid>e1802a97d0c9ca100c3365aa8ae50ccc</update_guid>
+<update_guid_history>e1802a97d0c9ca100c3365aa8ae50ccc:-1828053788</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_ce2d2a031b8d8a1062f8ea46624bcb6d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Pre-boarding">712d2a031b8d8a1062f8ea46624bcb4c</activity_set><activity_to_rescind/><activity_type>fulfiller</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>reapprove</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description>Esta actividad es para crear cuenta de ServiceNow a los empleados nuevos</description><display_order>50</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Service">4dfecd3f531322003585c3c606dc3420</fulfiller_activity><hr_criteria/><hr_service display_value="Crear cuenta de ServiceNow">eb66521f1b89ca1062f8ea46624bcb95</hr_service><hr_template/><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>substitute</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>ce2d2a031b8d8a1062f8ea46624bcb6d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Crear cuenta de ServiceNow</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_ce2d2a031b8d8a1062f8ea46624bcb6d</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 10:51:58</sys_updated_on><system_template/><title>Crear cuenta de ServiceNow</title><use_badge_on_hr_service>true</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>1895930881</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>a162f66e1ba2461062f8ea46624bcb68</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e753d09930000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Crear cuenta de ServiceNow</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>ce57da1f6b89ca1049f6ac259ff0465d</update_guid>
+<update_guid_history>ce57da1f6b89ca1049f6ac259ff0465d:1895930881,d807da1fca89ca103edf079b4a45a52e:1349573265,1007d61f0089ca10d4791c7f9192d3df:-1035877920</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_set_f52d2a031b8d8a1062f8ea46624bcb5e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_set"><sn_hr_le_activity_set action="INSERT_OR_UPDATE"><active>true</active><activity_set_dependencies/><audience/><combination_type>and</combination_type><condition/><condition_table/><date_offset_quantity/><date_offset_type/><date_offset_units/><description>Actividades del día 1</description><display_order>300</display_order><display_title>Día 1</display_title><display_to_opened_for>true</display_to_opened_for><display_to_subject_person>true</display_to_subject_person><evaluation_interval>1970-01-01 04:00:00</evaluation_interval><ignore_empty_date>false</ignore_empty_date><le_type display_value="Onboarding nuevos empleados">f52d2a031b8d8a1062f8ea46624bcb3e</le_type><sys_class_name>sn_hr_le_activity_set</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>f52d2a031b8d8a1062f8ea46624bcb5e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Día 1</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_set_f52d2a031b8d8a1062f8ea46624bcb5e</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:42:06</sys_updated_on><title>Día 1</title><trigger_field>subject_person_job.job_start_date</trigger_field><trigger_script/><trigger_table>sn_hr_le_case</trigger_table><trigger_type>date</trigger_type></sn_hr_le_activity_set></record_update>]]></payload>
+<payload_hash>2077731581</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>a162f66e1ba2461062f8ea46624bcb6b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756af0a40000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Día 1</target_name>
+<type>Activity Set</type>
+<update_domain>global</update_domain>
+<update_guid>a8d2aa5bc5c9ca10de06460bc860112d</update_guid>
+<update_guid_history>a8d2aa5bc5c9ca10de06460bc860112d:2077731581,60d2aa5b9bc9ca107d0aea3322934f2c:678727298</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_3d2d2a031b8d8a1062f8ea46624bcb4c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Pre-boarding">712d2a031b8d8a1062f8ea46624bcb4c</activity_set><activity_to_rescind/><activity_type>fulfiller</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>reapprove</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description>Establece el sistema de pago para el nuevo empleado</description><display_order>700</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Service">4dfecd3f531322003585c3c606dc3420</fulfiller_activity><hr_criteria/><hr_service display_value="Establecer sistema de pago">b95f8a6d3b622200705d86a734efc408</hr_service><hr_template/><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>substitute</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>3d2d2a031b8d8a1062f8ea46624bcb4c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Establecer sistema de pago</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_3d2d2a031b8d8a1062f8ea46624bcb4c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:21:46</sys_updated_on><system_template/><title>Establecer sistema de pago</title><use_badge_on_hr_service>true</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>259961304</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>a562f66e1ba2461062f8ea46624bcb67</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e7558524c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Establecer sistema de pago</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>a22e1ed318c9ca100b996a52c8f64fb1</update_guid>
+<update_guid_history>a22e1ed318c9ca100b996a52c8f64fb1:259961304,ae2e1ed37bc9ca10224566df93445bae:-1441318843</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_set_022d2a031b8d8a1062f8ea46624bcb67</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_set"><sn_hr_le_activity_set action="INSERT_OR_UPDATE"><active>true</active><activity_set_dependencies/><audience/><combination_type>and</combination_type><condition/><condition_table/><date_offset_quantity/><date_offset_type/><date_offset_units/><description>Primera actividad antes de empezar la contratación</description><display_order>100</display_order><display_title>Pre-contratación</display_title><display_to_opened_for>true</display_to_opened_for><display_to_subject_person>true</display_to_subject_person><evaluation_interval>1970-01-01 04:00:00</evaluation_interval><ignore_empty_date>false</ignore_empty_date><le_type display_value="Onboarding nuevos empleados">f52d2a031b8d8a1062f8ea46624bcb3e</le_type><sys_class_name>sn_hr_le_activity_set</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>022d2a031b8d8a1062f8ea46624bcb67</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Pre-contratación</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_set_022d2a031b8d8a1062f8ea46624bcb67</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:41:03</sys_updated_on><title>Pre-contratación</title><trigger_field/><trigger_script/><trigger_table/><trigger_type>immediate</trigger_type></sn_hr_le_activity_set></record_update>]]></payload>
+<payload_hash>603467856</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>a562f66e1ba2461062f8ea46624bcb6a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e7569fc250000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Pre-contratación</target_name>
+<type>Activity Set</type>
+<update_domain>global</update_domain>
+<update_guid>1d92a65b2ec9ca1028fd6a76736e4c07</update_guid>
+<update_guid_history>1d92a65b2ec9ca1028fd6a76736e4c07:603467856,1d92a65b26c9ca10259b3f3bf8913205:-1345454455</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_template_5311a2d71bc9ca1062f8ea46624bcb3b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_template"><sn_hr_core_template action="INSERT_OR_UPDATE"><active>true</active><assign_to>opened_for</assign_to><assignment_option/><assignment_type>employee</assignment_type><date_offset_quantity>0</date_offset_quantity><date_offset_type>on</date_offset_type><date_offset_units/><description_for_employee/><due_date_source/><global>true</global><group/><groups/><link_element/><name>Firmar el contrato</name><next/><next_child/><owning_group/><parent_case_table>sn_hr_core_case</parent_case_table><roles/><short_description/><short_description_for_employee/><show_on_template_bar>true</show_on_template_bar><show_translated_fields>false</show_translated_fields><stand_alone>false</stand_alone><sys_class_name>sn_hr_core_template</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:34:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5311a2d71bc9ca1062f8ea46624bcb3b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Firmar el contrato</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_template_5311a2d71bc9ca1062f8ea46624bcb3b</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:34:39</sys_updated_on><table>sn_hr_core_task</table><template>hr_task_type=mark_when_complete^state=10^task_support_team=users_and_groups^parent_case_users=6ac478f5e7400300d3dd8a63c2f6a956^EQ</template><template_reference/><template_reference_field/><use_assignment_date>false</use_assignment_date><user display_value="Aaron Duran">c3a5b9e3475e31100aeaa144846d43d6</user><view/></sn_hr_core_template></record_update>]]></payload>
+<payload_hash>-624279433</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>a962f66e1ba2461062f8ea46624bcb66</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e75641d250000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table>sn_hr_core_task</table>
+<target_name>Firmar el contrato</target_name>
+<type>HR Template</type>
+<update_domain>global</update_domain>
+<update_guid>9f11a2d787c9ca10edd128f48cb6123d</update_guid>
+<update_guid_history>9f11a2d787c9ca10edd128f48cb6123d:-624279433</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_field_mapping_c2ef12971bc9ca1062f8ea46624bcbe5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_field_mapping"><sn_hr_le_activity_field_mapping action="INSERT_OR_UPDATE"><activity display_value="Crear correo corporativo">107f56571bc9ca1062f8ea46624bcbf4</activity><input_mandatory>false</input_mandatory><map_from>field</map_from><map_from_custom_script/><map_from_custom_text/><map_from_field>subject_person</map_from_field><map_from_table>sn_hr_le_case</map_from_table><map_to_field>subject_person</map_to_field><map_to_flow_input/><map_to_table>sn_hr_core_case</map_to_table><map_to_variable/><sys_class_name>sn_hr_le_activity_field_mapping</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:29:22</sys_created_on><sys_domain>global</sys_domain><sys_id>c2ef12971bc9ca1062f8ea46624bcbe5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>subject_person</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_field_mapping_c2ef12971bc9ca1062f8ea46624bcbe5</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:29:22</sys_updated_on><valid>true</valid></sn_hr_le_activity_field_mapping><sys_translated_text action="delete_multiple" query="documentkey=c2ef12971bc9ca1062f8ea46624bcbe5"/></record_update>]]></payload>
+<payload_hash>-691252200</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>a962f66e1ba2461062f8ea46624bcb69</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e755f49db0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>subject_person</target_name>
+<type>Activity Field Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>86ef1297a3c9ca107664d667d3c94ae6</update_guid>
+<update_guid_history>86ef1297a3c9ca107664d667d3c94ae6:-691252200</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_criteria_445632323b10001052ca655593efc405</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_criteria"><sn_hr_core_criteria action="INSERT_OR_UPDATE"><active>false</active><description/><name>Needs visa transfer</name><related_user_criteria display_value="">612275db874103001f55c679e7cb0b96</related_user_criteria><sys_class_name>sn_hr_core_criteria</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-08-02 16:44:44</sys_created_on><sys_domain>global</sys_domain><sys_id>445632323b10001052ca655593efc405</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Needs visa transfer</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_criteria_445632323b10001052ca655593efc405</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-17 11:08:49</sys_updated_on><table/><user_column/></sn_hr_core_criteria></record_update>]]></payload>
+<payload_hash>-1623044780</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>ad62f66e1ba2461062f8ea46624bcb4b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e4c1996660000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Needs visa transfer</target_name>
+<type>HR Criteria</type>
+<update_domain>global</update_domain>
+<update_guid>3a7e0db4e88d8210be3bcb67994f8f84</update_guid>
+<update_guid_history>3a7e0db4e88d8210be3bcb67994f8f84:-1623044780,fa7e0db4698d821046af4f4eaf253d51:210333629</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_8b4466db1bc9ca1062f8ea46624bcb22</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>true</active><approval_options/><at_a_glance_uib_view display_value="At a Glance UIB" name="ataglance_uib">88c750695331301038e4ddeeff7b12ca</at_a_glance_uib_view><at_a_glance_view display_value="At a Glance" name="ataglance">bca2a4f3b73333001d69c2daee11a9bb</at_a_glance_view><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config/><case_options/><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>simple</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>Eliminar acceso a ServiceNow</name><producer/><service_table>sn_hr_le_case</service_table><service_table_fields/><subject_person_access>true</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:48:51</sys_created_on><sys_domain>global</sys_domain><sys_id>8b4466db1bc9ca1062f8ea46624bcb22</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Eliminar acceso a ServiceNow</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_service_8b4466db1bc9ca1062f8ea46624bcb22</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 16:33:48</sys_updated_on><template display_value="Eliminar acceso a ServiceNow">1cab2e5e1b79065018398485604bcbc5</template><topic_detail display_value="Account Notification">84ebedbc53322200eb7c0a1806dc3458</topic_detail><value>eliminar_acceso_a_servicenow</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=8b4466db1bc9ca1062f8ea46624bcb22"/></record_update>]]></payload>
+<payload_hash>456562291</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>ad62f66e1ba2461062f8ea46624bcb65</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f258e3cbb0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Eliminar acceso a ServiceNow</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>15abae5e3f7906509a7a26d3e039552c</update_guid>
+<update_guid_history>15abae5e3f7906509a7a26d3e039552c:456562291,a0846adb3dc9ca1060419f3e8b3f362c:927416996,1e64a6db9cc9ca10c781c6f0de63c1e0:251836422,2354a6db7cc9ca108d7e0dbde40ac41c:268199472</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_field_mapping_2043e29b1bc9ca1062f8ea46624bcb0c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_field_mapping"><sn_hr_le_activity_field_mapping action="INSERT_OR_UPDATE"><activity display_value="Eliminar Sistema de Pago">fff26e5b1bc9ca1062f8ea46624bcba8</activity><input_mandatory>false</input_mandatory><map_from>field</map_from><map_from_custom_script/><map_from_custom_text/><map_from_field>opened_for</map_from_field><map_from_table>sn_hr_le_case</map_from_table><map_to_field>opened_for</map_to_field><map_to_flow_input/><map_to_table>sn_hr_core_case</map_to_table><map_to_variable/><sys_class_name>sn_hr_le_activity_field_mapping</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:44:01</sys_created_on><sys_domain>global</sys_domain><sys_id>2043e29b1bc9ca1062f8ea46624bcb0c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>opened_for</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_field_mapping_2043e29b1bc9ca1062f8ea46624bcb0c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:44:01</sys_updated_on><valid>true</valid></sn_hr_le_activity_field_mapping><sys_translated_text action="delete_multiple" query="documentkey=2043e29b1bc9ca1062f8ea46624bcb0c"/></record_update>]]></payload>
+<payload_hash>-1246498323</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>ad62f66e1ba2461062f8ea46624bcb68</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756cb28c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>opened_for</target_name>
+<type>Activity Field Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>6c43e29b37c9ca1083413c6efe9afe0d</update_guid>
+<update_guid_history>6c43e29b37c9ca1083413c6efe9afe0d:-1246498323</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_107f56571bc9ca1062f8ea46624bcbf4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Pre-boarding">712d2a031b8d8a1062f8ea46624bcb4c</activity_set><activity_to_rescind/><activity_type>fulfiller</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>resubmit</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description/><display_order>100</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Service">4dfecd3f531322003585c3c606dc3420</fulfiller_activity><hr_criteria/><hr_service display_value="Crear correo corporativo">979f1a571bc9ca1062f8ea46624bcbd6</hr_service><hr_template/><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>skip</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:29:22</sys_created_on><sys_domain>global</sys_domain><sys_id>107f56571bc9ca1062f8ea46624bcbf4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Crear correo corporativo</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_107f56571bc9ca1062f8ea46624bcbf4</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:29:22</sys_updated_on><system_template/><title>Crear correo corporativo</title><use_badge_on_hr_service>true</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>2068827928</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>e162f66e1ba2461062f8ea46624bcb67</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e755f49fd0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Crear correo corporativo</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>c2ef1297bdc9ca106086fc3132a41de8</update_guid>
+<update_guid_history>c2ef1297bdc9ca106086fc3132a41de8:2068827928</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_field_mapping_f4a1aed71bc9ca1062f8ea46624bcb0c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_field_mapping"><sn_hr_le_activity_field_mapping action="INSERT_OR_UPDATE"><activity display_value="Eliminar correo corporativo">56516ad71bc9ca1062f8ea46624bcb14</activity><input_mandatory>false</input_mandatory><map_from>field</map_from><map_from_custom_script/><map_from_custom_text/><map_from_field>subject_person</map_from_field><map_from_table>sn_hr_le_case</map_from_table><map_to_field>subject_person</map_to_field><map_to_flow_input/><map_to_table>sn_hr_core_case</map_to_table><map_to_variable/><sys_class_name>sn_hr_le_activity_field_mapping</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:36:56</sys_created_on><sys_domain>global</sys_domain><sys_id>f4a1aed71bc9ca1062f8ea46624bcb0c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>subject_person</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_field_mapping_f4a1aed71bc9ca1062f8ea46624bcb0c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:36:56</sys_updated_on><valid>true</valid></sn_hr_le_activity_field_mapping><sys_translated_text action="delete_multiple" query="documentkey=f4a1aed71bc9ca1062f8ea46624bcb0c"/></record_update>]]></payload>
+<payload_hash>2091076443</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>e162f66e1ba2461062f8ea46624bcb6a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756635a00000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>subject_person</target_name>
+<type>Activity Field Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>b8a1aed776c9ca10082f1bcf1b00950d</update_guid>
+<update_guid_history>b8a1aed776c9ca10082f1bcf1b00950d:2091076443</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_eb66521f1b89ca1062f8ea46624bcb95</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>true</active><approval_options/><at_a_glance_uib_view display_value="At a Glance UIB" name="ataglance_uib">88c750695331301038e4ddeeff7b12ca</at_a_glance_uib_view><at_a_glance_view display_value="At a Glance" name="ataglance">bca2a4f3b73333001d69c2daee11a9bb</at_a_glance_view><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config/><case_options/><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>simple</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>Crear cuenta de ServiceNow</name><producer/><service_table>sn_hr_le_case</service_table><service_table_fields/><subject_person_access>true</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 10:48:47</sys_created_on><sys_domain>global</sys_domain><sys_id>eb66521f1b89ca1062f8ea46624bcb95</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Crear cuenta de ServiceNow</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_service_eb66521f1b89ca1062f8ea46624bcb95</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 16:29:55</sys_updated_on><template display_value="Crear cuenta de ServiceNow">1bbae61e1b79065018398485604bcb1e</template><topic_detail display_value="Account Notification">84ebedbc53322200eb7c0a1806dc3458</topic_detail><value>crear_cuenta_de_servicenow</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=eb66521f1b89ca1062f8ea46624bcb95"/></record_update>]]></payload>
+<payload_hash>-62412142</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>e562f66e1ba2461062f8ea46624bcb66</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f258aab2a0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Crear cuenta de ServiceNow</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>54cae61ed6790650db9ac77f505f368d</update_guid>
+<update_guid_history>54cae61ed6790650db9ac77f505f368d:-62412142,32b95adff589ca10c3624dd928105d37:-878805754,b396161fd189ca1094336b2fb2debbae:-1135045968</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_field_mapping_71742adb1bc9ca1062f8ea46624bcbb9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_field_mapping"><sn_hr_le_activity_field_mapping action="INSERT_OR_UPDATE"><activity display_value="Eliminar acceso a ServiceNow">a13426db1bc9ca1062f8ea46624bcb05</activity><input_mandatory>false</input_mandatory><map_from>field</map_from><map_from_custom_script/><map_from_custom_text/><map_from_field>subject_person</map_from_field><map_from_table>sn_hr_le_case</map_from_table><map_to_field>subject_person</map_to_field><map_to_flow_input/><map_to_table>sn_hr_core_case</map_to_table><map_to_variable/><sys_class_name>sn_hr_le_activity_field_mapping</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:49:17</sys_created_on><sys_domain>global</sys_domain><sys_id>71742adb1bc9ca1062f8ea46624bcbb9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>subject_person</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_field_mapping_71742adb1bc9ca1062f8ea46624bcbb9</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:49:17</sys_updated_on><valid>true</valid></sn_hr_le_activity_field_mapping><sys_translated_text action="delete_multiple" query="documentkey=71742adb1bc9ca1062f8ea46624bcbb9"/></record_update>]]></payload>
+<payload_hash>-1379240255</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>e562f66e1ba2461062f8ea46624bcb69</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e7571837e0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>subject_person</target_name>
+<type>Activity Field Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>35742adbcac9ca10013a793c9fc779ba</update_guid>
+<update_guid_history>35742adbcac9ca10013a793c9fc779ba:-1379240255</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_criteria_045632323b10001052ca655593efc404</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_criteria"><sn_hr_core_criteria action="INSERT_OR_UPDATE"><active>false</active><description/><name>Needs Relocation</name><related_user_criteria display_value="">652275db874103001f55c679e7cb0b92</related_user_criteria><sys_class_name>sn_hr_core_criteria</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-10 00:09:04</sys_created_on><sys_domain>global</sys_domain><sys_id>045632323b10001052ca655593efc404</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Needs Relocation</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_criteria_045632323b10001052ca655593efc404</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-17 11:08:49</sys_updated_on><table/><user_column/></sn_hr_core_criteria></record_update>]]></payload>
+<payload_hash>-2094040118</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>e962f66e1ba2461062f8ea46624bcb4b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e4c1996b00000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Needs Relocation</target_name>
+<type>HR Criteria</type>
+<update_domain>global</update_domain>
+<update_guid>b67e0db4048d8210c70f49d609e32488</update_guid>
+<update_guid_history>b67e0db4048d8210c70f49d609e32488:-2094040118,767e0db4f98d82103c21407553240c87:863428851</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_3fb5d76f87a30010b0fb0c0626cb0b2a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>false</active><approval_options/><at_a_glance_uib_view/><at_a_glance_view/><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config/><case_options>c2d25d092f232200a9e7a310c18c954c,64e89b75531312003066a5f4a11c08b3</case_options><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>simple</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>No Show</name><producer/><service_table>sn_hr_core_case_talent_management</service_table><service_table_fields/><subject_person_access>false</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-20 23:12:13</sys_created_on><sys_domain>global</sys_domain><sys_id>3fb5d76f87a30010b0fb0c0626cb0b2a</sys_id><sys_mod_count>3</sys_mod_count><sys_name>No Show</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_core_service_3fb5d76f87a30010b0fb0c0626cb0b2a</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:06:12</sys_updated_on><template display_value="No Show">f83e71ad87370010b0fb0c0626cb0b1e</template><topic_detail display_value="Manage No Shows">c495576f87a30010b0fb0c0626cb0bdd</topic_detail><value>no_show</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=3fb5d76f87a30010b0fb0c0626cb0b2a"/></record_update>]]></payload>
+<payload_hash>1086189267</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>e962f66e1ba2461062f8ea46624bcb65</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a011ef0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>No Show</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>2610f2125e4d4a1010ec02fe1fc91f01</update_guid>
+<update_guid_history>2610f2125e4d4a1010ec02fe1fc91f01:1086189267,ae10b212004d4a10f80938ac1af923ff:-681154316</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_fff26e5b1bc9ca1062f8ea46624bcba8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Rescición">392d2a031b8d8a1062f8ea46624bcb3f</activity_set><activity_to_rescind display_value="Establecer sistema de pago">3d2d2a031b8d8a1062f8ea46624bcb4c</activity_to_rescind><activity_type>fulfiller</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>resubmit</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description/><display_order>100</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Service">4dfecd3f531322003585c3c606dc3420</fulfiller_activity><hr_criteria/><hr_service display_value="Eliminar sistema de pago">a113ae5b1bc9ca1062f8ea46624bcbb3</hr_service><hr_template/><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>skip</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:44:01</sys_created_on><sys_domain>global</sys_domain><sys_id>fff26e5b1bc9ca1062f8ea46624bcba8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Eliminar Sistema de Pago</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_fff26e5b1bc9ca1062f8ea46624bcba8</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:44:31</sys_updated_on><system_template/><title>Eliminar Sistema de Pago</title><use_badge_on_hr_service>true</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>-138123137</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>e962f66e1ba2461062f8ea46624bcb68</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756d263f0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Eliminar Sistema de Pago</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>f753a69b58c9ca10af5da1afa7dbdd02</update_guid>
+<update_guid_history>f753a69b58c9ca10af5da1afa7dbdd02:-138123137,3043e29b45c9ca107e6b52d065c95012:-1250827704</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_a13426db1bc9ca1062f8ea46624bcb05</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity"><sn_hr_le_activity action="INSERT_OR_UPDATE"><active>true</active><activity_set display_value="Rescisión">392d2a031b8d8a1062f8ea46624bcb3f</activity_set><activity_to_rescind display_value="Crear cuenta de ServiceNow">ce2d2a031b8d8a1062f8ea46624bcb6d</activity_to_rescind><activity_type>fulfiller</activity_type><approval_accept_option>anyone</approval_accept_option><approval_reject_option>resubmit</approval_reject_option><approver_groups/><approver_users/><approvers/><audience/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><catalog_item/><content_availability_quantity/><content_availability_units/><description/><display_order>100</display_order><email_template/><flow/><from/><fulfiller_activity display_value="HR Service">4dfecd3f531322003585c3c606dc3420</fulfiller_activity><hr_criteria/><hr_service display_value="Eliminar acceso a ServiceNow">8b4466db1bc9ca1062f8ea46624bcb22</hr_service><hr_template/><member_of/><missing_all_approvers>substitute</missing_all_approvers><missing_some_approvers>skip</missing_some_approvers><order_guide/><order_number/><owning_group display_value="HR Activity Writers" name="HR Activity Writers">bf0b2a70e7723200c1dc8a63c2f6a93e</owning_group><plan_type/><recipient_fields/><recipient_groups/><recipient_users/><sys_class_name>sn_hr_le_activity</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:49:16</sys_created_on><sys_domain>global</sys_domain><sys_id>a13426db1bc9ca1062f8ea46624bcb05</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Eliminar acceso a ServiceNow</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_a13426db1bc9ca1062f8ea46624bcb05</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:49:16</sys_updated_on><system_template/><title>Eliminar acceso a ServiceNow</title><use_badge_on_hr_service>true</use_badge_on_hr_service><wait_for_generated_tasks_to_complete>false</wait_for_generated_tasks_to_complete></sn_hr_le_activity></record_update>]]></payload>
+<payload_hash>-505802588</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>ed62f66e1ba2461062f8ea46624bcb67</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e7571839c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Eliminar acceso a ServiceNow</target_name>
+<type>Activity</type>
+<update_domain>global</update_domain>
+<update_guid>71742adb87c9ca10cf883140557e35bc</update_guid>
+<update_guid_history>71742adb87c9ca10cf883140557e35bc:-505802588</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_activity_set_b52d2a031b8d8a1062f8ea46624bcb5c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_activity_set"><sn_hr_le_activity_set action="INSERT_OR_UPDATE"><active>true</active><activity_set_dependencies/><audience/><combination_type>and</combination_type><condition/><condition_table/><date_offset_quantity>29</date_offset_quantity><date_offset_type>after</date_offset_type><date_offset_units>days</date_offset_units><description>Actividades a partir del día 30</description><display_order>500</display_order><display_title>Día 30</display_title><display_to_opened_for>true</display_to_opened_for><display_to_subject_person>true</display_to_subject_person><evaluation_interval>1970-01-01 04:00:00</evaluation_interval><ignore_empty_date>false</ignore_empty_date><le_type display_value="Onboarding nuevos empleados">f52d2a031b8d8a1062f8ea46624bcb3e</le_type><sys_class_name>sn_hr_le_activity_set</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:48:46</sys_created_on><sys_domain>global</sys_domain><sys_id>b52d2a031b8d8a1062f8ea46624bcb5c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Día 30</sys_name><sys_package display_value="Human Resources: Lifecycle Enterprise" source="sn_hr_le_ent">ee724b063b223300d901655593efc4f3</sys_package><sys_policy/><sys_scope display_value="Human Resources: Lifecycle Enterprise">ee724b063b223300d901655593efc4f3</sys_scope><sys_update_name>sn_hr_le_activity_set_b52d2a031b8d8a1062f8ea46624bcb5c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-25 11:42:27</sys_updated_on><title>Día 30</title><trigger_field>subject_person_job.job_start_date</trigger_field><trigger_script/><trigger_table>sn_hr_le_case</trigger_table><trigger_type>date</trigger_type></sn_hr_le_activity_set></record_update>]]></payload>
+<payload_hash>2033528915</payload_hash>
+<remote_update_set display_value="Human Resources: Lifecycle Enterprise">e562f66e1ba2461062f8ea46624bcb4b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:54</sys_created_on>
+<sys_id>ed62f66e1ba2461062f8ea46624bcb6a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e756b43280000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:54</sys_updated_on>
+<table/>
+<target_name>Día 30</target_name>
+<type>Activity Set</type>
+<update_domain>global</update_domain>
+<update_guid>bde22e5b64c9ca100c81cbc58c92b637</update_guid>
+<update_guid_history>bde22e5b64c9ca100c81cbc58c92b637:2033528915,b5e22e5b2ec9ca10f8f3c6b4daef7636:1266759746</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

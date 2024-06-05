@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-06-05 18:29:14">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<application_name>Journey designer</application_name>
+<application_scope>sn_jny</application_scope>
+<application_version>4.0.3</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Journey designer</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>d079220f1b4d8a1062f8ea46624bcb01</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>ca723a6e1ba2461062f8ea46624bcbbd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_e364ea921b79065018398485604bcb97</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>false</active><approval_options/><at_a_glance_uib_view display_value="At a Glance UIB" name="ataglance_uib">88c750695331301038e4ddeeff7b12ca</at_a_glance_uib_view><at_a_glance_view display_value="At a Glance" name="ataglance">bca2a4f3b73333001d69c2daee11a9bb</at_a_glance_view><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config/><case_options/><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>lifecycle_event</fulfillment_type><header_config_opened_for display_value="Request Onboarding Service Configuration for Opened for / Approver">e7ed4f5453700300eb7c0a1806dc34f7</header_config_opened_for><header_config_subject_person display_value="Request Onboarding Service Configuration for Subject Person /&#10;&#9;&#9;&#9;Task Assignee   ">dcfa279853700300eb7c0a1806dc34a6</header_config_subject_person><hr_criteria/><journey_config/><le_type display_value="Onboarding nuevos empleados">f52d2a031b8d8a1062f8ea46624bcb3e</le_type><name>Onboarding nuevos empleados</name><producer display_value="New Hire Onboarding">8ca46d8a53e14110fb2addeeff7b1239</producer><service_table>sn_hr_le_case</service_table><service_table_fields/><subject_person_access>true</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-04-28 16:02:59</sys_created_on><sys_domain>global</sys_domain><sys_id>e364ea921b79065018398485604bcb97</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Onboarding nuevos empleados</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>sn_hr_core_service_e364ea921b79065018398485604bcb97</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 16:34:41</sys_updated_on><template display_value="New Hire Onboarding">f2b15dd6532222003066a5f4a11c08d0</template><topic_detail display_value="New Hire Onboarding">58a50d1e53032200eb7c0a1806dc348a</topic_detail><value>onboarding_nuevos_empleados</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=e364ea921b79065018398485604bcb97"/></record_update>]]></payload>
+<payload_hash>903766093</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>02723a6e1ba2461062f8ea46624bcbc0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f258f09710000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name>Onboarding nuevos empleados</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>4edba29e9c790650d2d24ae6ff91f1d5</update_guid>
+<update_guid_history>4edba29e9c790650d2d24ae6ff91f1d5:903766093,f4a422d28c7906508168b269861e8c34:-1693576692,b594ee922f79065059c56fba8dd09f80:-1388281087</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_9ca4ed8a53e14110fb2addeeff7b124d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>false</active><attributes/><cat_item display_value="New Hire Onboarding for Journeys">8ca46d8a53e14110fb2addeeff7b1239</cat_item><category/><choice_direction>down</choice_direction><choice_field>employment_type</choice_field><choice_table>sn_hr_core_profile</choice_table><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><dynamic_value_dot_walk_path/><dynamic_value_field/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>true</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table>sys_choice</lookup_table><lookup_unique>true</lookup_unique><lookup_value>label</lookup_value><macro/><macroponent/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>employment_type</name><order>56</order><post_insert_script/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text>Employment type</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_le_case</record_producer_table><reference/><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:45</sys_created_on><sys_id>9ca4ed8a53e14110fb2addeeff7b124d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>employment_type</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>item_option_new_9ca4ed8a53e14110fb2addeeff7b124d</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:37:16</sys_updated_on><table/><tooltip>Employment Type</tooltip><type>5</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>advanced</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=9ca4ed8a53e14110fb2addeeff7b124d"/><fx_price action="delete_multiple" query="id=9ca4ed8a53e14110fb2addeeff7b124d"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>9ca4ed8a53e14110fb2addeeff7b124d</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:45</sys_created_on><sys_id>d4a4ed8a53e14110fb2addeeff7b1250</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:45</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>9ca4ed8a53e14110fb2addeeff7b124d</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:45</sys_created_on><sys_id>9ca4ed8a53e14110fb2addeeff7b124f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:45</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-495782336</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>06723a6e1ba2461062f8ea46624bcbbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e7189befa0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>e58ae64f5c4d8a10b9ac0581a3cc0aa8</update_guid>
+<update_guid_history>e58ae64f5c4d8a10b9ac0581a3cc0aa8:-495782336,958ae64f1b4d8a10146946797881c79d:2094767811</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_64a4ed8a53e14110fb2addeeff7b12a0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>false</active><attributes/><cat_item display_value="New Hire Onboarding for Journeys">8ca46d8a53e14110fb2addeeff7b1239</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><dynamic_value_dot_walk_path/><dynamic_value_field/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><macroponent/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>needs_transfer_work_visa</name><order>77</order><post_insert_script/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text>Needs to transfer work visa</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_le_case</record_producer_table><reference/><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>64a4ed8a53e14110fb2addeeff7b12a0</sys_id><sys_mod_count>1</sys_mod_count><sys_name>needs_transfer_work_visa</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>item_option_new_64a4ed8a53e14110fb2addeeff7b12a0</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:37:04</sys_updated_on><table/><tooltip/><type>7</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=64a4ed8a53e14110fb2addeeff7b12a0"/><fx_price action="delete_multiple" query="id=64a4ed8a53e14110fb2addeeff7b12a0"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>price_if_checked</field><id>64a4ed8a53e14110fb2addeeff7b12a0</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>aca4ed8a53e14110fb2addeeff7b12a2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:46</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>rec_price_if_checked</field><id>64a4ed8a53e14110fb2addeeff7b12a0</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>64a4ed8a53e14110fb2addeeff7b12a2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:46</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-1349557329</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>0a723a6e1ba2461062f8ea46624bcbbe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e718990f70000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>e27aa64fd64d8a10fb0726111effadb7</update_guid>
+<update_guid_history>e27aa64fd64d8a10fb0726111effadb7:-1349557329,627aa64f2d4d8a10e462b7db3850d3ac:310965849</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_78a4ed8a53e14110fb2addeeff7b12de</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>false</active><attributes/><cat_item display_value="New Hire Onboarding for Journeys">8ca46d8a53e14110fb2addeeff7b1239</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>true</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><dynamic_value_dot_walk_path/><dynamic_value_field/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><macroponent/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>additional_needs</name><order>75</order><post_insert_script/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text>Additional needs</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_le_case</record_producer_table><reference/><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:47</sys_created_on><sys_id>78a4ed8a53e14110fb2addeeff7b12de</sys_id><sys_mod_count>1</sys_mod_count><sys_name>additional_needs</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>item_option_new_78a4ed8a53e14110fb2addeeff7b12de</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:37:05</sys_updated_on><table/><tooltip/><type>11</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=78a4ed8a53e14110fb2addeeff7b12de"/><fx_price action="delete_multiple" query="id=78a4ed8a53e14110fb2addeeff7b12de"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>78a4ed8a53e14110fb2addeeff7b12de</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:47</sys_created_on><sys_id>b0a4ed8a53e14110fb2addeeff7b12e1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:47</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>78a4ed8a53e14110fb2addeeff7b12de</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:47</sys_created_on><sys_id>78a4ed8a53e14110fb2addeeff7b12e0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:47</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-526303908</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>42723a6e1ba2461062f8ea46624bcbbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e718993170000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>727aa64f7c4d8a10b19a96cde08d2ae2</update_guid>
+<update_guid_history>727aa64f7c4d8a10b19a96cde08d2ae2:-526303908,6a7aa64f924d8a1094fa8de644ac21ca:647468127</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_1497975253e14110fb2addeeff7b1219</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="New Hire Onboarding">8ca46d8a53e14110fb2addeeff7b1239</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><dynamic_value_dot_walk_path/><dynamic_value_field/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><macroponent/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>location</name><order>1600</order><post_insert_script/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text>Company location</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_le_case</record_producer_table><reference>cmn_location</reference><reference_qual>parent=9a042ce74747f1100aeaa144846d43cf^EQ</reference_qual><reference_qual_condition table="cmn_location">parent=9a042ce74747f1100aeaa144846d43cf^EQ<item display_table="cmn_location" display_value="Oviedo" endquery="false" field="parent" goto="false" newquery="false" operator="=" or="false" value="9a042ce74747f1100aeaa144846d43cf"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></reference_qual_condition><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-11 00:46:34</sys_created_on><sys_id>1497975253e14110fb2addeeff7b1219</sys_id><sys_mod_count>4</sys_mod_count><sys_name>location</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>item_option_new_1497975253e14110fb2addeeff7b1219</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 15:50:11</sys_updated_on><table/><tooltip/><type>8</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=1497975253e14110fb2addeeff7b1219"/><fx_price action="delete_multiple" query="id=1497975253e14110fb2addeeff7b1219"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>1497975253e14110fb2addeeff7b1219</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-11 00:46:34</sys_created_on><sys_id>91d75b5253e14110fb2addeeff7b1218</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-11 00:46:34</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>1497975253e14110fb2addeeff7b1219</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-11 00:46:34</sys_created_on><sys_id>59d75b5253e14110fb2addeeff7b1217</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-11 00:46:34</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>1826856714</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>46723a6e1ba2461062f8ea46624bcbbe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f25664ca80000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>5ea162debc390650c33fb4be9aa83a92</update_guid>
+<update_guid_history>5ea162debc390650c33fb4be9aa83a92:1826856714,0bd0229ee0390650789130b8c4f60901:-913495330,794f9a9e86b942109ba1a7c17194ae7e:-97553932,714f9a9edbb942106fb8a93764a43a7a:251945441</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_user_criteria_mtom_08971ade1bf5065018398485604bcbde</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Hire Onboarding">8ca46d8a53e14110fb2addeeff7b1239</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-04-28 15:06:05</sys_created_on><sys_id>08971ade1bf5065018398485604bcbde</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Hire Onboarding.HR users</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_08971ade1bf5065018398485604bcbde</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 15:06:05</sys_updated_on><user_criteria display_value="HR users">1c671ade1bf5065018398485604bcb12</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+<payload_hash>409341576</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>4e723a6e1ba2461062f8ea46624bcbbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f253de9c80000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name>New Hire Onboarding.HR users</target_name>
+<type>Catalog Item Available for</type>
+<update_domain>global</update_domain>
+<update_guid>84971ade98f50650f39c21b081502ae1</update_guid>
+<update_guid_history>84971ade98f50650f39c21b081502ae1:409341576</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_10a4ed8a53e14110fb2addeeff7b1275</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>false</active><attributes/><cat_item display_value="New Hire Onboarding for Journeys">8ca46d8a53e14110fb2addeeff7b1239</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><dynamic_value_dot_walk_path/><dynamic_value_field/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><macroponent/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>needs_relocation_assistance</name><order>78</order><post_insert_script/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text>Needs relocation assistance</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_le_case</record_producer_table><reference/><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>10a4ed8a53e14110fb2addeeff7b1275</sys_id><sys_mod_count>1</sys_mod_count><sys_name>needs_relocation_assistance</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>item_option_new_10a4ed8a53e14110fb2addeeff7b1275</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:37:04</sys_updated_on><table/><tooltip/><type>7</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=10a4ed8a53e14110fb2addeeff7b1275"/><fx_price action="delete_multiple" query="id=10a4ed8a53e14110fb2addeeff7b1275"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>price_if_checked</field><id>10a4ed8a53e14110fb2addeeff7b1275</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>58a4ed8a53e14110fb2addeeff7b1277</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:46</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>rec_price_if_checked</field><id>10a4ed8a53e14110fb2addeeff7b1275</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>10a4ed8a53e14110fb2addeeff7b1277</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:46</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>1708410884</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>82723a6e1ba2461062f8ea46624bcbbe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e718990000000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>ee7aa64fc24d8a10ca1858e4a5ac11a7</update_guid>
+<update_guid_history>ee7aa64fc24d8a10ca1858e4a5ac11a7:1708410884,6e7aa64fc84d8a101c04429bed6a5c9c:1765961348</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>user_criteria_1c671ade1bf5065018398485604bcb12</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="user_criteria"&gt;&lt;user_criteria action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;company/&gt;&lt;department/&gt;&lt;group&gt;f25370019f22120047a2d126c42e705c,723aa84f5ba02200502f6ede91f91aea&lt;/group&gt;&lt;location/&gt;&lt;match_all&gt;false&lt;/match_all&gt;&lt;name&gt;HR users&lt;/name&gt;&lt;role/&gt;&lt;script&gt;&lt;![CDATA[/** Scripted User Criteria is not cached, and evaluated everytime, so performance is dependent on the script.
+* Populate `answer` with true/false or evaluate to true/false
+* The script is evaluated in the scope the user criteria is defined
+* Don't use `current` in the script or populate the variable
+* Don't use `gs.getUser()` or  `gs.getUserID()`, 
+* instead use `user_id` which contains the user sys_id against whom the evaluation is happening.
+*/]]&gt;&lt;/script&gt;&lt;short_description/&gt;&lt;sys_class_name&gt;user_criteria&lt;/sys_class_name&gt;&lt;sys_created_by&gt;aaron.admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-28 15:06:05&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;1c671ade1bf5065018398485604bcb12&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;HR users&lt;/sys_name&gt;&lt;sys_package display_value="Journey designer" source="sn_jny"&gt;70b67750c7010110eadc357098c26026&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Journey designer"&gt;70b67750c7010110eadc357098c26026&lt;/sys_scope&gt;&lt;sys_update_name&gt;user_criteria_1c671ade1bf5065018398485604bcb12&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;aaron.admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-28 15:08:23&lt;/sys_updated_on&gt;&lt;user/&gt;&lt;/user_criteria&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1755151596</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>86723a6e1ba2461062f8ea46624bcbc0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f254003320000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name>HR users</target_name>
+<type>User Criteria</type>
+<update_domain>global</update_domain>
+<update_guid>fd1896125d390650b6b94ed531b24022</update_guid>
+<update_guid_history>fd1896125d390650b6b94ed531b24022:-1755151596,8d08561265390650c789685160574063:1783297884,c0971ade40f5065017238d1eb848afdd:-1199967193</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_producer_8ca46d8a53e14110fb2addeeff7b1239</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_edit&gt;false&lt;/allow_edit&gt;&lt;availability&gt;on_both&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category display_value="Talent Management"&gt;f227415e53032200eb7c0a1806dc34f6&lt;/category&gt;&lt;checked_out&gt;false&lt;/checked_out&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="Onboarding Default"&gt;14cdb931db7f3b0074f15a87dc96193f&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description/&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;list_price&gt;0&lt;/list_price&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;New Hire Onboarding&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture&gt;456d525a1b39065018398485604bcb26&lt;/picture&gt;&lt;post_insert_script&gt;&lt;![CDATA[/**
+* This script is executed after the record is generated.
+* `current` Is the GlideRecord produced by Record Producer. Use `current.update()` to update the record
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]&gt;&lt;/post_insert_script&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=8ca46d8a53e14110fb2addeeff7b1239&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;save_options/&gt;&lt;save_script&gt;&lt;![CDATA[/**
+* This script is executed at every step save in Catalog Builder.
+* This script is executed before `Script` is executed.
+* `current` Is the GlideRecord produced by Record Producer.
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]&gt;&lt;/save_script&gt;&lt;sc_catalogs&gt;7b0370019f22120047a2d126c42e7075&lt;/sc_catalogs&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;script&gt;&lt;![CDATA[new sn_hr_le.hr_ActivityUtils().createCaseFromProducer(current, producer, cat_item.sys_id);
+producer.redirect="sn_hr_core_case_list.do?sysparm_userpref_module=af52c26dc3732200b599b4ad81d3ae34&amp;sysparm_view=le_progress&amp;sysparm_query=active%3Dtrue%5Ehr_service.fulfillment_type%3Dlifecycle_event%5EORhr_service.le_typeISNOTEMPTY%5EEQ";]]&gt;&lt;/script&gt;&lt;short_description&gt;Request an onboarding journey for a new hire (compatible with Journeys)&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state&gt;published&lt;/state&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-02-09 21:44:44&lt;/sys_created_on&gt;&lt;sys_id&gt;8ca46d8a53e14110fb2addeeff7b1239&lt;/sys_id&gt;&lt;sys_mod_count&gt;31&lt;/sys_mod_count&gt;&lt;sys_name&gt;New Hire Onboarding&lt;/sys_name&gt;&lt;sys_package display_value="Journey designer" source="sn_jny"&gt;70b67750c7010110eadc357098c26026&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Journey designer"&gt;70b67750c7010110eadc357098c26026&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_8ca46d8a53e14110fb2addeeff7b1239&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;aaron.admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-28 17:08:05&lt;/sys_updated_on&gt;&lt;table_name&gt;sn_hr_le_case&lt;/table_name&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;17&lt;/version&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=8ca46d8a53e14110fb2addeeff7b1239"/&gt;&lt;sys_translated_text action="INSERT_OR_UPDATE"&gt;&lt;documentkey&gt;8ca46d8a53e14110fb2addeeff7b1239&lt;/documentkey&gt;&lt;fieldname&gt;name&lt;/fieldname&gt;&lt;language&gt;es&lt;/language&gt;&lt;sys_created_by&gt;aaron.admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-24 17:34:58&lt;/sys_created_on&gt;&lt;sys_id&gt;f7f9668b1b4d8a1062f8ea46624bcbc1&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;aaron.admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-24 17:34:58&lt;/sys_updated_on&gt;&lt;tablename&gt;sc_cat_item_producer&lt;/tablename&gt;&lt;value&gt;Onboarding de nuevos empleados&lt;/value&gt;&lt;/sys_translated_text&gt;&lt;sys_translated_text action="INSERT_OR_UPDATE"&gt;&lt;documentkey&gt;8ca46d8a53e14110fb2addeeff7b1239&lt;/documentkey&gt;&lt;fieldname&gt;short_description&lt;/fieldname&gt;&lt;language&gt;es&lt;/language&gt;&lt;sys_created_by&gt;aaron.admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-03-24 17:34:58&lt;/sys_created_on&gt;&lt;sys_id&gt;f7f96e0f1b4d8a1062f8ea46624bcb45&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;aaron.admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-03-24 17:34:58&lt;/sys_updated_on&gt;&lt;tablename&gt;sc_cat_item_producer&lt;/tablename&gt;&lt;value&gt;Solicita el onboarding de un nuevo empleado&lt;/value&gt;&lt;/sys_translated_text&gt;&lt;fx_price action="delete_multiple" query="id=8ca46d8a53e14110fb2addeeff7b1239"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;8ca46d8a53e14110fb2addeeff7b1239&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-02-09 21:44:44&lt;/sys_created_on&gt;&lt;sys_id&gt;c0a4ed8a53e14110fb2addeeff7b1230&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-02-09 21:44:49&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;8ca46d8a53e14110fb2addeeff7b1239&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-02-09 21:44:44&lt;/sys_created_on&gt;&lt;sys_id&gt;c0a4ed8a53e14110fb2addeeff7b1231&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-02-09 21:44:49&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1374255863</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>8a723a6e1ba2461062f8ea46624bcbbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f25ad9c6c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table>sn_hr_le_case</table>
+<target_name>New Hire Onboarding</target_name>
+<type>Record Producer</type>
+<update_domain>global</update_domain>
+<update_guid>5773bad64bb90650c686cb897eeff1ec</update_guid>
+<update_guid_history>5773bad64bb90650c686cb897eeff1ec:1374255863,6703f2d6aeb90650fab93176aca7622d:-1846040899,5ea162de5839065043116fa2222b1b8f:839372400,cfd0ee5e3039065075685a159fb33cfd:1723721007,464f9a9e55b9421067a309f24b7502a9:-1686897682,b43fd69e6db9421064573553337a1d6a:-2084923266,d8802b95202102107802ab1604d19e85:-244989388,8d1da603728d8a10b9f30b4634fbd3c6:-1507127019,f90ba28f714d8a104908d8099e26dce9:-288561934,a7aaaa4fee4d8a103ca2c5b74689ad35:-610536430,298ae64f614d8a1003bc4b7d0eb550a5:-1872674061,fa7aa64f434d8a10011579b3805cb6d2:1160155604,e67aa64f464d8a107d5e4c984a4620c3:-101982027,e27aa64fbc4d8a10563307baca279fb4:-1364119658,ee7aa64fbe4d8a1013dff3c9e8fc8ba4:1668710007,d67aa64fd84d8a105db192398b6af195:406572376,bff96e0f894d8a1063c813543ee85247:-855565255,37f96e0f6d4d8a1023e7632ac72a4244:1308460250,d199260f6a4d8a10bfd45979458ca69e:-2125631509,8b87d9b002cd82103949af4cb6c334eb:-660625583,0387d9b01acd8210f162b6724fd377e7:-855201856</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_70a4ed8a53e14110fb2addeeff7b12d5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>false</active><attributes/><cat_item display_value="New Hire Onboarding for Journeys">8ca46d8a53e14110fb2addeeff7b1239</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><dynamic_value_dot_walk_path/><dynamic_value_field/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><macroponent/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>middle_name</name><order>26</order><post_insert_script/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text>Middle name</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_le_case</record_producer_table><reference/><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:47</sys_created_on><sys_id>70a4ed8a53e14110fb2addeeff7b12d5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>middle_name</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>item_option_new_70a4ed8a53e14110fb2addeeff7b12d5</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:39:28</sys_updated_on><table/><tooltip/><type>6</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=70a4ed8a53e14110fb2addeeff7b12d5"/><fx_price action="delete_multiple" query="id=70a4ed8a53e14110fb2addeeff7b12d5"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>70a4ed8a53e14110fb2addeeff7b12d5</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:47</sys_created_on><sys_id>b8a4ed8a53e14110fb2addeeff7b12d7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:47</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>70a4ed8a53e14110fb2addeeff7b12d5</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:47</sys_created_on><sys_id>70a4ed8a53e14110fb2addeeff7b12d7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:47</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-1837570997</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>8e723a6e1ba2461062f8ea46624bcbbe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e718bc58c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>b90ba28f574d8a10de3ed99961cfb9ec</update_guid>
+<update_guid_history>b90ba28f574d8a10de3ed99961cfb9ec:-1837570997,b90ba28f064d8a10ba92e3ed1d565be1:-70337844</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>sys_translated_5d1aae0f1b4d8a1062f8ea46624bcbee</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated"><sys_translated action="INSERT_OR_UPDATE"><element>question_text</element><id/><label>Sobre el empleado</label><language>es</language><name>question</name><sys_class_name>sys_translated</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-24 17:35:21</sys_created_on><sys_id>5d1aae0f1b4d8a1062f8ea46624bcbee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sobre el empleado</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>sys_translated_5d1aae0f1b4d8a1062f8ea46624bcbee</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:35:21</sys_updated_on><value> About Employee</value></sys_translated></record_update>]]></payload>
+<payload_hash>801986879</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>c2723a6e1ba2461062f8ea46624bcbc0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e718801110000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table>question</table>
+<target_name>Sobre el empleado</target_name>
+<type>Translated Name / Field</type>
+<update_domain>global</update_domain>
+<update_guid>e91aae0f014d8a10aa15da527a9aa9f1</update_guid>
+<update_guid_history>e91aae0f014d8a10aa15da527a9aa9f1:801986879</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_d4a4ed8a53e14110fb2addeeff7b127c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>false</active><attributes/><cat_item display_value="New Hire Onboarding for Journeys">8ca46d8a53e14110fb2addeeff7b1239</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><dynamic_value_dot_walk_path/><dynamic_value_field/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><macroponent/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>needs_work_visa</name><order>76</order><post_insert_script/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text>Needs work visa</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_le_case</record_producer_table><reference/><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>d4a4ed8a53e14110fb2addeeff7b127c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>needs_work_visa</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>item_option_new_d4a4ed8a53e14110fb2addeeff7b127c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:37:04</sys_updated_on><table/><tooltip/><type>7</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=d4a4ed8a53e14110fb2addeeff7b127c"/><fx_price action="delete_multiple" query="id=d4a4ed8a53e14110fb2addeeff7b127c"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>price_if_checked</field><id>d4a4ed8a53e14110fb2addeeff7b127c</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>10a4ed8a53e14110fb2addeeff7b127f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:46</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>rec_price_if_checked</field><id>d4a4ed8a53e14110fb2addeeff7b127c</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>d4a4ed8a53e14110fb2addeeff7b127e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:46</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>-860759642</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>c6723a6e1ba2461062f8ea46624bcbbf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e718992050000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>e67aa64fc64d8a10a250a0073bdec6c6</update_guid>
+<update_guid_history>e67aa64fc64d8a10a250a0073bdec6c6:-860759642,667aa64f5d4d8a10cb77c43c30a714bb:-1668760570</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_6ca4ed8a53e14110fb2addeeff7b128b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>false</active><attributes/><cat_item display_value="New Hire Onboarding for Journeys">8ca46d8a53e14110fb2addeeff7b1239</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><dynamic_value_dot_walk_path/><dynamic_value_field/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>true</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table>sys_user</lookup_table><lookup_unique>true</lookup_unique><lookup_value>department</lookup_value><macro/><macroponent/><mandatory>true</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>department</name><order>62</order><post_insert_script/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text>Department</question_text><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_le_case</record_producer_table><reference>cmn_department</reference><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>6ca4ed8a53e14110fb2addeeff7b128b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>department</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>item_option_new_6ca4ed8a53e14110fb2addeeff7b128b</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:37:57</sys_updated_on><table/><tooltip>Department</tooltip><type>8</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=6ca4ed8a53e14110fb2addeeff7b128b"/><fx_price action="delete_multiple" query="id=6ca4ed8a53e14110fb2addeeff7b128b"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>price_if_checked</field><id>6ca4ed8a53e14110fb2addeeff7b128b</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>a4a4ed8a53e14110fb2addeeff7b128e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:46</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>rec_price_if_checked</field><id>6ca4ed8a53e14110fb2addeeff7b128b</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:46</sys_created_on><sys_id>6ca4ed8a53e14110fb2addeeff7b128d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:46</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>970250161</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>ca723a6e1ba2461062f8ea46624bcbbe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e718a61230000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>a7aaaa4f404d8a10b5328103637b6738</update_guid>
+<update_guid_history>a7aaaa4f404d8a10b5328103637b6738:970250161,ebaae64fea4d8a106d1c5ddd542282e4:-665109807</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Journey designer">70b67750c7010110eadc357098c26026</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_10a4ed8a53e14110fb2addeeff7b1254</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>false</active><attributes/><cat_item display_value="New Hire Onboarding for Journeys">8ca46d8a53e14110fb2addeeff7b1239</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value/><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><dynamic_value_dot_walk_path/><dynamic_value_field/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><hidden>false</hidden><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><macroponent/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>formatter5</name><order>74</order><post_insert_script/><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><published_ref/><question_text/><read_only>false</read_only><read_roles/><read_script/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table>sn_hr_le_case</record_producer_table><reference/><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><save_script/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:45</sys_created_on><sys_id>10a4ed8a53e14110fb2addeeff7b1254</sys_id><sys_mod_count>1</sys_mod_count><sys_name>formatter5</sys_name><sys_package display_value="Journey designer" source="sn_jny">70b67750c7010110eadc357098c26026</sys_package><sys_policy/><sys_scope display_value="Journey designer">70b67750c7010110eadc357098c26026</sys_scope><sys_update_name>item_option_new_10a4ed8a53e14110fb2addeeff7b1254</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-24 17:37:03</sys_updated_on><table/><tooltip/><type>12</type><ui_page/><unique>false</unique><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=10a4ed8a53e14110fb2addeeff7b1254"/><fx_price action="delete_multiple" query="id=10a4ed8a53e14110fb2addeeff7b1254"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="GBP">GBP</currency><field>price_if_checked</field><id>10a4ed8a53e14110fb2addeeff7b1254</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:45</sys_created_on><sys_id>94a4ed8a53e14110fb2addeeff7b1256</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:45</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="GBP">GBP</currency><field>rec_price_if_checked</field><id>10a4ed8a53e14110fb2addeeff7b1254</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-02-09 21:44:45</sys_created_on><sys_id>5ca4ed8a53e14110fb2addeeff7b1255</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-02-09 21:44:45</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>220633847</payload_hash>
+<remote_update_set display_value="Journey designer">ca723a6e1ba2461062f8ea46624bcbbd</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:29:13</sys_created_on>
+<sys_id>ce723a6e1ba2461062f8ea46624bcbbd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e71898ee10000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:29:13</sys_updated_on>
+<table/>
+<target_name/>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>6a7aa64fb44d8a103b717e460a806a98</update_guid>
+<update_guid_history>6a7aa64fb44d8a103b717e460a806a98:220633847,5e7aa64f7c4d8a10f6d956d49923508c:584752409</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-06-05 18:27:07">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Change Management - CAB Workbench">18351d53eb32120034d1eeea1206fe79</application>
+<application_name>Change Management - CAB Workbench</application_name>
+<application_scope>sn_change_cab</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Change Management - CAB Workbench</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>96ed64e01b96ce1062f8ea46624bcbd7</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:27:06</sys_created_on>
+<sys_id>47f1fa2e1ba2461062f8ea46624bcb7c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:27:06</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_cmn_schedule_span_x_atsl_uni_horario_de_asignatura_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="x_atsl_uni_horario_de_asignatura" relationship="" sys_domain="global" table="cmn_schedule_span" version="2" view=""><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>cmn_schedule_span</name><parent>x_atsl_uni_horario_de_asignatura</parent><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id/><sys_mod_count/><sys_name>cmn_schedule_span</sys_name><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2024-05-17 17:26:31</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-2073471933</payload_hash>
+<remote_update_set display_value="Change Management - CAB Workbench">47f1fa2e1ba2461062f8ea46624bcb7c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:27:06</sys_created_on>
+<sys_id>4bf1fa2e1ba2461062f8ea46624bcb7c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f87974f3b0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:27:06</sys_updated_on>
+<table>cmn_schedule_span</table>
+<target_name>Horario de asignatura.Schedule Entry</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>56ed64e09d96ce10f79cee64f37c5bd8</update_guid>
+<update_guid_history>56ed64e09d96ce10f79cee64f37c5bd8:-2073471933</update_guid_history>
+<update_set display_value=""/>
+<view>Default view</view>
+</sys_update_xml>
+</unload>

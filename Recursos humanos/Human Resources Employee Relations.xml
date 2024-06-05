@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-06-05 18:28:06">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<application_name>Human Resources: Employee Relations</application_name>
+<application_scope>sn_hr_er</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Human Resources: Employee Relations</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>e7ffeede470d4a100aeaa144846d432a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>a532b26e1ba2461062f8ea46624bcb11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_3a6751fceb220110afa96bf3a252286f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>false</active><approval_options/><at_a_glance_uib_view display_value="At a Glance UIB" name="ataglance_uib">88c750695331301038e4ddeeff7b12ca</at_a_glance_uib_view><at_a_glance_view/><auto_close_case>false</auto_close_case><auto_close_offset/><badge/><case_creation_service_config/><case_options/><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>service_activity</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>PIP assessment</name><producer display_value="PIP assessment">d45fc9f4eb220110afa96bf3a2522821</producer><service_table>sn_hr_er_case</service_table><service_table_fields>document_template_category,document_template</service_table_fields><subject_person_access>false</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-27 16:40:39</sys_created_on><sys_domain>global</sys_domain><sys_id>3a6751fceb220110afa96bf3a252286f</sys_id><sys_mod_count>3</sys_mod_count><sys_name>PIP assessment</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sn_hr_core_service_3a6751fceb220110afa96bf3a252286f</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:05:54</sys_updated_on><template display_value="PIP assessment">f398d130eb620110afa96bf3a25228fb</template><topic_detail display_value="PIP assessment">af87d1fceb220110afa96bf3a2522892</topic_detail><value>pip_assessment</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=3a6751fceb220110afa96bf3a252286f"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>3a6751fceb220110afa96bf3a252286f</documentkey><fieldname>name</fieldname><language>es</language><sys_created_by/><sys_created_on/><sys_id>6791280447b0ce500aeaa144846d43ed</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><tablename>sn_hr_core_service</tablename><value>Evaluación PIP</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>1050357506</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>2132b26e1ba2461062f8ea46624bcb12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e659fc86a0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>PIP assessment</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>020032128d4d4a10b31d9c4b3e4d9cdd</update_guid>
+<update_guid_history>020032128d4d4a10b31d9c4b3e4d9cdd:1050357506,46003212df4d4a102eedf8f5bde656db:-2139661047</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_9cd421c81b71ca1018398485604bcb7c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>00d66f61530600101db6ddeeff7b1237</source><source_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</source_scope><source_table>sp_widget</source_table><source_type>6</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>profesor.prueba2</sys_created_by><sys_created_on>2024-04-21 11:38:02</sys_created_on><sys_id>9cd421c81b71ca1018398485604bcb7c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>3d1da2705b021200a4656ede91f91ab6</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_9cd421c81b71ca1018398485604bcb7c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 15:26:58</sys_updated_on><target element="short_description" name="task" target_table="sys_dictionary">4a068cb55830311095d71ac5466801f5</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_dictionary</target_table><target_type>5</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>2098407171</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>2532b26e1ba2461062f8ea46624bcb14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f255109980000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>3d1da2705b021200a4656ede91f91ab6</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>ca5c92d6d1390650cd2a81ea2b5f63f7</update_guid>
+<update_guid_history>ca5c92d6d1390650cd2a81ea2b5f63f7:2098407171,d4d421c8da71ca10c79375d72f777b7e:-1883778363</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_2b81ad441b71ca1018398485604bcb30</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>5001b062d7101200b0b044580e6103eb</source><source_scope display_value="Global">global</source_scope><source_table>sp_widget</source_table><source_type>6</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>profesor.prueba2</sys_created_by><sys_created_on>2024-04-21 11:23:48</sys_created_on><sys_id>2b81ad441b71ca1018398485604bcb30</sys_id><sys_mod_count>1</sys_mod_count><sys_name>global</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_2b81ad441b71ca1018398485604bcb30</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 15:26:59</sys_updated_on><target element="short_description" name="task" target_table="sys_dictionary">4a068cb55830311095d71ac5466801f5</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_dictionary</target_table><target_type>5</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-722819169</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>2932b26e1ba2461062f8ea46624bcb13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f25510a7c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>global</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>d25c92d6e3390650cbcb88320823effb</update_guid>
+<update_guid_history>d25c92d6e3390650cbcb88320823effb:-722819169,6b81ad44f771ca1069251ab20cbfe731:2095415777</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_le_type_e8f90a53eb0a0110afa96bf3a2522804</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_le_type"><sn_hr_le_type action="INSERT_OR_UPDATE"><active>false</active><description/><display_activity_set>false</display_activity_set><event_type>hr_services</event_type><sort_activities_by>due_date</sort_activities_by><sys_class_name>sn_hr_le_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-10 18:12:05</sys_created_on><sys_domain>global</sys_domain><sys_id>e8f90a53eb0a0110afa96bf3a2522804</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Performance improvement plan (PIP)</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sn_hr_le_type_e8f90a53eb0a0110afa96bf3a2522804</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-18 16:33:19</sys_updated_on><title>Performance improvement plan (PIP)</title></sn_hr_le_type></record_update>]]></payload>
+<payload_hash>2084995989</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>2d32b26e1ba2461062f8ea46624bcb12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18ef20e2df80000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>Performance improvement plan (PIP)</target_name>
+<type>Manage Lifecycle Event</type>
+<update_domain>global</update_domain>
+<update_guid>54ab4f8f9065c6107ceb505d405c70d7</update_guid>
+<update_guid_history>54ab4f8f9065c6107ceb505d405c70d7:2084995989,14ab4f8f6c65c61028ece7abe8861bd5:1980130128</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_898e19801b71ca1018398485604bcb9b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>8face42a131d0810da297ad66144b0e2</source><source_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</source_scope><source_table>sp_widget</source_table><source_type>6</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>profesor.prueba2</sys_created_by><sys_created_on>2024-04-21 11:10:31</sys_created_on><sys_id>898e19801b71ca1018398485604bcb9b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>3d1da2705b021200a4656ede91f91ab6</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_898e19801b71ca1018398485604bcb9b</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-21 11:17:34</sys_updated_on><target element="short_description" name="task" target_table="sys_dictionary">4a068cb55830311095d71ac5466801f5</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_dictionary</target_table><target_type>5</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-2463206</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>6132b26e1ba2461062f8ea46624bcb14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f00602d610000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>3d1da2705b021200a4656ede91f91ab6</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>9c20ad0098394a106f48b16ae6cf5818</update_guid>
+<update_guid_history>9c20ad0098394a106f48b16ae6cf5818:-2463206,098e1980a471ca106d94e264b95c7a9c:310318556</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_258e19801b71ca1018398485604bcbc5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>d1cfa4ea131d0810da297ad66144b091</source><source_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</source_scope><source_table>sp_widget</source_table><source_type>6</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>profesor.prueba2</sys_created_by><sys_created_on>2024-04-21 11:10:32</sys_created_on><sys_id>258e19801b71ca1018398485604bcbc5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>3d1da2705b021200a4656ede91f91ab6</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_258e19801b71ca1018398485604bcbc5</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-21 11:17:43</sys_updated_on><target name="sn_hr_er_case" target_table="sys_db_object">174ce2cc1b09ca1062f8ea46624bcb18</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>902894134</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>6532b26e1ba2461062f8ea46624bcb13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f006050e50000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>3d1da2705b021200a4656ede91f91ab6</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>2620ed009f394a10b55b1d1a678f322b</update_guid>
+<update_guid_history>2620ed009f394a10b55b1d1a678f322b:902894134,a18e1980c371ca10a0eb818dea24cbc6:-349286092</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_65e3861febc60110afa96bf3a2522830</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>false</active><approval_options/><at_a_glance_uib_view display_value="At a Glance UIB" name="ataglance_uib">88c750695331301038e4ddeeff7b12ca</at_a_glance_uib_view><at_a_glance_view/><auto_close_case>false</auto_close_case><auto_close_offset/><badge/><case_creation_service_config/><case_options>61d2cc34731300107d05e2596bf6a7b6</case_options><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>lifecycle_event</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type display_value="Performance improvement plan (PIP)">e8f90a53eb0a0110afa96bf3a2522804</le_type><name>Performance improvement plan (PIP)</name><producer display_value="Start a Performance Improvement Plan (PIP)">bed262b6eb420110afa96bf3a25228ea</producer><service_table>sn_hr_er_case</service_table><service_table_fields>document_template_category,document_template</service_table_fields><subject_person_access>false</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-10 18:12:08</sys_created_on><sys_domain>global</sys_domain><sys_id>65e3861febc60110afa96bf3a2522830</sys_id><sys_mod_count>9</sys_mod_count><sys_name>Performance improvement plan (PIP)</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sn_hr_core_service_65e3861febc60110afa96bf3a2522830</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:05:54</sys_updated_on><template display_value="Initiate PIP">3e5c9f34eb120110afa96bf3a2522859</template><topic_detail display_value="PIP initiation">5e690253eb0a0110afa96bf3a2522877</topic_detail><value>performance_improvement_plan</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=65e3861febc60110afa96bf3a2522830"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>65e3861febc60110afa96bf3a2522830</documentkey><fieldname>name</fieldname><language>es</language><sys_created_by/><sys_created_on/><sys_id>c5d1208847b0ce500aeaa144846d439b</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><tablename>sn_hr_core_service</tablename><value>Plan de mejora del rendimiento (PIP)</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>-794203489</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>6932b26e1ba2461062f8ea46624bcb12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e659fc8290000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>Performance improvement plan (PIP)</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>8e003212604d4a109fefd1140bb157d7</update_guid>
+<update_guid_history>8e003212604d4a109fefd1140bb157d7:-794203489,c2003212624d4a10b8c6581b33df2dd6:-1973146957</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_producer_de11e647ff26201017e447cf793bf1d1</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;false&lt;/active&gt;&lt;allow_edit&gt;false&lt;/allow_edit&gt;&lt;availability&gt;on_both&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category display_value="Employee Relations"&gt;4b1c77813ba10010d901655593efc4d8&lt;/category&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;Let us know if you need any changes to your working environment, arrangement, or other aspect of your job. &lt;/p&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level/&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta&gt;accommodation, workplace modification&lt;/meta&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Request Accommodations&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture/&gt;&lt;post_insert_script/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=de11e647ff26201017e447cf793bf1d1&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;save_options/&gt;&lt;save_script/&gt;&lt;sc_catalogs&gt;7b0370019f22120047a2d126c42e7075&lt;/sc_catalogs&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;script&gt;&lt;![CDATA[new sn_hr_core.hr_ServicesUtil(current, gs).createCaseFromProducer(producer, cat_item.sys_id);]]&gt;&lt;/script&gt;&lt;short_description&gt;Request an accommodation&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-03-02 05:23:21&lt;/sys_created_on&gt;&lt;sys_id&gt;de11e647ff26201017e447cf793bf1d1&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;Request Accommodations&lt;/sys_name&gt;&lt;sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er"&gt;0fcd4ba63b910010d901655593efc4fd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Human Resources: Employee Relations"&gt;0fcd4ba63b910010d901655593efc4fd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_de11e647ff26201017e447cf793bf1d1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-13 07:35:46&lt;/sys_updated_on&gt;&lt;table_name&gt;sn_hr_er_case&lt;/table_name&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;2&lt;/version&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=de11e647ff26201017e447cf793bf1d1"/&gt;&lt;sys_translated_text action="INSERT_OR_UPDATE"&gt;&lt;documentkey&gt;de11e647ff26201017e447cf793bf1d1&lt;/documentkey&gt;&lt;fieldname&gt;description&lt;/fieldname&gt;&lt;language&gt;es&lt;/language&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;1ca1ac0447b0ce500aeaa144846d437a&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;tablename&gt;sc_cat_item&lt;/tablename&gt;&lt;value&gt;&amp;lt;p&amp;gt;Háganos saber si necesita algún cambio en su entorno de trabajo, disposición u otro aspecto de su trabajo. &amp;lt;/p&amp;gt;&lt;/value&gt;&lt;/sys_translated_text&gt;&lt;sys_translated_text action="INSERT_OR_UPDATE"&gt;&lt;documentkey&gt;de11e647ff26201017e447cf793bf1d1&lt;/documentkey&gt;&lt;fieldname&gt;name&lt;/fieldname&gt;&lt;language&gt;es&lt;/language&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;5591e8c047b0ce500aeaa144846d4330&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;tablename&gt;sc_cat_item&lt;/tablename&gt;&lt;value&gt;Solicitar adaptaciones&lt;/value&gt;&lt;/sys_translated_text&gt;&lt;sys_translated_text action="INSERT_OR_UPDATE"&gt;&lt;documentkey&gt;de11e647ff26201017e447cf793bf1d1&lt;/documentkey&gt;&lt;fieldname&gt;short_description&lt;/fieldname&gt;&lt;language&gt;es&lt;/language&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;6f91680447b0ce500aeaa144846d4347&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;tablename&gt;sc_cat_item&lt;/tablename&gt;&lt;value&gt;Solicitar una adaptación&lt;/value&gt;&lt;/sys_translated_text&gt;&lt;fx_price action="delete_multiple" query="id=de11e647ff26201017e447cf793bf1d1"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1645728813</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>6d32b26e1ba2461062f8ea46624bcb11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18ed6623d960000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table>sn_hr_er_case</table>
+<target_name>Request Accommodations</target_name>
+<type>Record Producer</type>
+<update_domain>global</update_domain>
+<update_guid>11a0e3d549210210fe63947db6598034</update_guid>
+<update_guid_history>11a0e3d549210210fe63947db6598034:-1645728813,2f871db073cd821011fd3968721e4aca:-573577292,6b871db05bcd821042735a5086c681c6:-1479651325</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_e0ab82d3eb0a0110afa96bf3a2522848</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>bed262b6eb420110afa96bf3a25228ea</source><source_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</source_scope><source_table>sc_cat_item_producer</source_table><source_type>14</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-10 18:18:58</sys_created_on><sys_id>e0ab82d3eb0a0110afa96bf3a2522848</sys_id><sys_mod_count>3</sys_mod_count><sys_name>d4ac3fff5b311200a4656ede91f91af2</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_e0ab82d3eb0a0110afa96bf3a2522848</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 15:23:45</sys_updated_on><target element="description" name="task" target_table="sys_dictionary">42068cb55830311095d71ac5466801f9</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_dictionary</target_table><target_type>5</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-1921424632</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>6d32b26e1ba2461062f8ea46624bcb14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f254e18400000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>d4ac3fff5b311200a4656ede91f91af2</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>cb9b1296fa3906501e4309db2939942c</update_guid>
+<update_guid_history>cb9b1296fa3906501e4309db2939942c:-1921424632,479b1296d0390650250c84a9b130642a:-641937305</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_22fd34a347c98e100aeaa144846d43d4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>c91081c4eb22211043ad0d94d8522873</source><source_scope display_value="Global">global</source_scope><source_table>sys_script_include</source_table><source_type>2</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-25 23:00:00</sys_created_on><sys_id>22fd34a347c98e100aeaa144846d43d4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>global</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_22fd34a347c98e100aeaa144846d43d4</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 15:26:59</sys_updated_on><target name="sn_hr_er_case" target_table="sys_db_object">174ce2cc1b09ca1062f8ea46624bcb18</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-2147206853</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>a132b26e1ba2461062f8ea46624bcb13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f25510ba90000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>global</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>9a5cd2d6263906509e45fd11414ee2d5</update_guid>
+<update_guid_history>9a5cd2d6263906509e45fd11414ee2d5:-2147206853,bafd34a358c98e1001e6e3afb57c67d7:-432326215</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_5e11aa47ff26201017e447cf793bf148</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>false</active><approval_options/><at_a_glance_uib_view/><at_a_glance_view display_value="At a Glance" name="ataglance">bca2a4f3b73333001d69c2daee11a9bb</at_a_glance_view><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="ER">57566e4bff26201017e447cf793bf153</badge><case_creation_service_config display_value="Accommodation Create Case">a1e6e28bff26201017e447cf793bf11c</case_creation_service_config><case_options/><close_when/><description>Service for employees requesting an accommodation or modification to a working arrangement</description><flow/><fulfillment_instructions/><fulfillment_type>simple</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>Accommodation Request</name><producer display_value="Request Accommodations">de11e647ff26201017e447cf793bf1d1</producer><service_table>sn_hr_er_case</service_table><service_table_fields/><subject_person_access>true</subject_person_access><subject_person_related_lists>4ee86acbff26201017e447cf793bf1ed</subject_person_related_lists><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-02 05:23:21</sys_created_on><sys_domain>global</sys_domain><sys_id>5e11aa47ff26201017e447cf793bf148</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Accommodation Request</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sn_hr_core_service_5e11aa47ff26201017e447cf793bf148</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:05:53</sys_updated_on><template display_value="Accommodation Request">de11e647ff26201017e447cf793bf1cf</template><topic_detail display_value="Accommodation Requests">d7bf1e07ff26201017e447cf793bf165</topic_detail><value>accommodation_request</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=5e11aa47ff26201017e447cf793bf148"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>5e11aa47ff26201017e447cf793bf148</documentkey><fieldname>name</fieldname><language>es</language><sys_created_by/><sys_created_on/><sys_id>59d1608847b0ce500aeaa144846d43bf</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><tablename>sn_hr_core_service</tablename><value>Solicitud de adaptación</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>-1380449455</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>a532b26e1ba2461062f8ea46624bcb12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e659fc7e30000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>Accommodation Request</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>4a003212ab4d4a108bbf6c320b36ecd2</update_guid>
+<update_guid_history>4a003212ab4d4a108bbf6c320b36ecd2:-1380449455,8e003212d74d4a105726572b27d530d0:651343927</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_producer_d45fc9f4eb220110afa96bf3a2522821</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_edit&gt;false&lt;/allow_edit&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category/&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description/&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;PIP assessment&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner/&gt;&lt;picture/&gt;&lt;post_insert_script&gt;&lt;![CDATA[/**
+* This script is executed after the record is generated. 
+* `current` Is the GlideRecord produced by Record Producer. Use `current.update()` to update the record
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]&gt;&lt;/post_insert_script&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=d45fc9f4eb220110afa96bf3a2522821&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;save_options/&gt;&lt;save_script&gt;&lt;![CDATA[/**
+* This script is executed at every step save in Catalog Builder. 
+* This script is executed before `Script` is executed.
+* `current` Is the GlideRecord produced by Record Producer. 
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]&gt;&lt;/save_script&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;script&gt;&lt;![CDATA[new er_Producer().createCaseFromProducer(current, producer, cat_item.sys_id);]]&gt;&lt;/script&gt;&lt;short_description&gt;PIP assessment of the employee&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-03-27 16:02:56&lt;/sys_created_on&gt;&lt;sys_id&gt;d45fc9f4eb220110afa96bf3a2522821&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;PIP assessment&lt;/sys_name&gt;&lt;sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er"&gt;0fcd4ba63b910010d901655593efc4fd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Human Resources: Employee Relations"&gt;0fcd4ba63b910010d901655593efc4fd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_d45fc9f4eb220110afa96bf3a2522821&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-13 07:35:33&lt;/sys_updated_on&gt;&lt;table_name&gt;sn_hr_er_case&lt;/table_name&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;2&lt;/version&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=d45fc9f4eb220110afa96bf3a2522821"/&gt;&lt;sys_translated_text action="INSERT_OR_UPDATE"&gt;&lt;documentkey&gt;d45fc9f4eb220110afa96bf3a2522821&lt;/documentkey&gt;&lt;fieldname&gt;name&lt;/fieldname&gt;&lt;language&gt;es&lt;/language&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;48a1e80447b0ce500aeaa144846d435b&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;tablename&gt;sc_cat_item&lt;/tablename&gt;&lt;value&gt;Evaluación PIP&lt;/value&gt;&lt;/sys_translated_text&gt;&lt;sys_translated_text action="INSERT_OR_UPDATE"&gt;&lt;documentkey&gt;d45fc9f4eb220110afa96bf3a2522821&lt;/documentkey&gt;&lt;fieldname&gt;short_description&lt;/fieldname&gt;&lt;language&gt;es&lt;/language&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;77a1248447b0ce500aeaa144846d4394&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;tablename&gt;sc_cat_item&lt;/tablename&gt;&lt;value&gt;Evaluación PIP del empleado&lt;/value&gt;&lt;/sys_translated_text&gt;&lt;fx_price action="delete_multiple" query="id=d45fc9f4eb220110afa96bf3a2522821"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="GBP"&gt;GBP&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;d45fc9f4eb220110afa96bf3a2522821&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-03-27 16:02:56&lt;/sys_created_on&gt;&lt;sys_id&gt;e18fc9f4eb220110afa96bf3a252288c&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-13 07:35:31&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1333461077</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>a932b26e1ba2461062f8ea46624bcb11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18ed6620dbb0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table>sn_hr_er_case</table>
+<target_name>PIP assessment</target_name>
+<type>Record Producer</type>
+<update_domain>global</update_domain>
+<update_guid>9e90ef95af2102100933c7c83a520fd0</update_guid>
+<update_guid_history>9e90ef95af2102100933c7c83a520fd0:-1333461077,b590af95d3210210b91b992f211e8ba6:1074483916</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_cd8e19801b71ca1018398485604bcb94</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>8face42a131d0810da297ad66144b0e2</source><source_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</source_scope><source_table>sp_widget</source_table><source_type>6</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>profesor.prueba2</sys_created_by><sys_created_on>2024-04-21 11:10:30</sys_created_on><sys_id>cd8e19801b71ca1018398485604bcb94</sys_id><sys_mod_count>1</sys_mod_count><sys_name>3d1da2705b021200a4656ede91f91ab6</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_cd8e19801b71ca1018398485604bcb94</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-21 11:16:54</sys_updated_on><target name="sn_hr_er_case" target_table="sys_db_object">174ce2cc1b09ca1062f8ea46624bcb18</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-2092059846</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>a932b26e1ba2461062f8ea46624bcb14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f005f92520000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>3d1da2705b021200a4656ede91f91ab6</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>32ffd9004c394a10d58541e868f500c9</update_guid>
+<update_guid_history>32ffd9004c394a10d58541e868f500c9:-2092059846,498e19806e71ca103404ea4434573e98:950727224</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_4fe025441b71ca1018398485604bcb59</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>write</operation><rca_type>real_rca</rca_type><source>b25370019f22120047a2d126c42e701c</source><source_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</source_scope><source_table>sys_ui_action</source_table><source_type>1</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>trabajador.hr.relaciones</sys_created_by><sys_created_on>2024-04-21 11:21:01</sys_created_on><sys_id>4fe025441b71ca1018398485604bcb59</sys_id><sys_mod_count>1</sys_mod_count><sys_name>d4ac3fff5b311200a4656ede91f91af2</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_4fe025441b71ca1018398485604bcb59</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 15:26:59</sys_updated_on><target element="description" name="task" target_table="sys_dictionary">42068cb55830311095d71ac5466801f9</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_dictionary</target_table><target_type>5</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-1535750404</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>ad32b26e1ba2461062f8ea46624bcb13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f25510b090000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>d4ac3fff5b311200a4656ede91f91af2</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>d25cd2d630390650ea971ebb184282d2</update_guid>
+<update_guid_history>d25cd2d630390650ea971ebb184282d2:-1535750404,03e025447b71ca10bd0f305a7427085c:200242238</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_51c088553ba10010d901655593efc4b6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>false</active><approval_options/><at_a_glance_uib_view/><at_a_glance_view/><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config display_value="ER Create Case">4e3ee81a23030010fb0c949e27bf65a0</case_creation_service_config><case_options>5ad4d1709f402200d9011977677fcfbb</case_options><close_when/><description>Service for employees to report misconduct or inappropriate behavior to HR</description><flow/><fulfillment_instructions/><fulfillment_type>simple</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>Report Misconduct</name><producer display_value="Report Misconduct">934c7b813ba10010d901655593efc4a6</producer><service_table>sn_hr_er_case</service_table><service_table_fields/><subject_person_access>false</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-04 21:50:52</sys_created_on><sys_domain>global</sys_domain><sys_id>51c088553ba10010d901655593efc4b6</sys_id><sys_mod_count>21</sys_mod_count><sys_name>Report Misconduct</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sn_hr_core_service_51c088553ba10010d901655593efc4b6</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:05:53</sys_updated_on><template display_value="Report Misconduct">cead2db53ba10010d901655593efc4ec</template><topic_detail display_value="Investigations">d2399d7a3ba10010d901655593efc4ac</topic_detail><value>report_misconduct</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=51c088553ba10010d901655593efc4b6"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>51c088553ba10010d901655593efc4b6</documentkey><fieldname>name</fieldname><language>es</language><sys_created_by/><sys_created_on/><sys_id>77b1acc447b0ce500aeaa144846d43af</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><tablename>sn_hr_core_service</tablename><value>Informar de conducta inapropiada</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>1920735325</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>e132b26e1ba2461062f8ea46624bcb12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e659fc7a10000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>Report Misconduct</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>060032128f4d4a10ec2c65f031515bcd</update_guid>
+<update_guid_history>060032128f4d4a10ec2c65f031515bcd:1920735325,ce003212dd4d4a1055e22eb32edb7929:-2075135331</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_c8fceec01b49ca1062f8ea46624bcb9a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>generated</rca_type><source>c65e7dbec3713010fe394f877840dd36</source><source_scope display_value="Agent Workspace for HR Case Management">ff837553a1112010db4143775de96b71</source_scope><source_table>sys_security_acl</source_table><source_type>11</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-15 10:06:03</sys_created_on><sys_id>c8fceec01b49ca1062f8ea46624bcb9a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>ff837553a1112010db4143775de96b71</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_c8fceec01b49ca1062f8ea46624bcb9a</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 15:28:13</sys_updated_on><target name="sn_hr_er_case" target_table="sys_db_object">174ce2cc1b09ca1062f8ea46624bcb18</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>1899146940</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>e532b26e1ba2461062f8ea46624bcb14</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f25522bf20000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>ff837553a1112010db4143775de96b71</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>54ac5ad67e3906504a513080524c4d90</update_guid>
+<update_guid_history>54ac5ad67e3906504a513080524c4d90:1899146940,c4fceec0df49ca102bbc02f1d6015ab5:646966714</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_49a6ea9f1bc9ca1062f8ea46624bcb18</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>bc010330c33310000f343b251eba8ffb</source><source_scope display_value="Human Resources: Core">d4ac3fff5b311200a4656ede91f91af2</source_scope><source_table>sys_script_include</source_table><source_type>2</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>aaron.admin</sys_created_by><sys_created_on>2024-03-25 11:58:48</sys_created_on><sys_id>49a6ea9f1bc9ca1062f8ea46624bcb18</sys_id><sys_mod_count>1</sys_mod_count><sys_name>d4ac3fff5b311200a4656ede91f91af2</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_49a6ea9f1bc9ca1062f8ea46624bcb18</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-28 15:26:59</sys_updated_on><target name="sn_hr_er_case" target_table="sys_db_object">174ce2cc1b09ca1062f8ea46624bcb18</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-550421994</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>e932b26e1ba2461062f8ea46624bcb13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f25510c300000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>d4ac3fff5b311200a4656ede91f91af2</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>925cd2d6533906501e00f79e44fcbcd9</update_guid>
+<update_guid_history>925cd2d6533906501e00f79e44fcbcd9:-550421994,8da6ea9f30c9ca100b63248e5bdf5a1a:-1802602220</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_118e19801b71ca1018398485604bcba8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>d1cfa4ea131d0810da297ad66144b091</source><source_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</source_scope><source_table>sp_widget</source_table><source_type>6</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>profesor.prueba2</sys_created_by><sys_created_on>2024-04-21 11:10:31</sys_created_on><sys_id>118e19801b71ca1018398485604bcba8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>3d1da2705b021200a4656ede91f91ab6</sys_name><sys_package display_value="Human Resources: Employee Relations" source="sn_hr_er">0fcd4ba63b910010d901655593efc4fd</sys_package><sys_policy/><sys_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</sys_scope><sys_update_name>sys_restricted_caller_access_118e19801b71ca1018398485604bcba8</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-04-21 11:18:07</sys_updated_on><target element="short_description" name="task" target_table="sys_dictionary">4a068cb55830311095d71ac5466801f5</target><target_scope display_value="Human Resources: Employee Relations">0fcd4ba63b910010d901655593efc4fd</target_scope><target_table>sys_dictionary</target_table><target_type>5</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-1822326626</payload_hash>
+<remote_update_set display_value="Human Resources: Employee Relations">a532b26e1ba2461062f8ea46624bcb11</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:05</sys_created_on>
+<sys_id>ed32b26e1ba2461062f8ea46624bcb12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18f0060b2060000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:05</sys_updated_on>
+<table/>
+<target_name>3d1da2705b021200a4656ede91f91ab6</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>6840214084394a10aeeb960b6d216ccb</update_guid>
+<update_guid_history>6840214084394a10aeeb960b6d216ccb:-1822326626,9d8e19801171ca10fae60326f2d7a1a8:-1509544864</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

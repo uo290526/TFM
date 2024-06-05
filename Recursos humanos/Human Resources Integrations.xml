@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-06-05 18:28:35">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Human Resources: Integrations">aaa655c19f0322003be01050a57fcf65</application>
+<application_name>Human Resources: Integrations</application_name>
+<application_scope>sn_hr_integrations</application_scope>
+<application_version>19.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Human Resources: Integrations</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>b65e09b4478d82100aeaa144846d43ce</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>e852766e1ba2461062f8ea46624bcb96</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Omni-Experience Standard Feature Set">53b1b0e79761011018b2fa98c253afcc</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_aaf568f6c32230100f24c87af040dd16</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description/><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>Collab Chat Search Profile</label><name>collab_chat_search_profile</name><publish_id>e79fc3f2-5f80-47af-b4d7-b0db7d2aa86a</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>PUBLISHED</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-15 21:58:14</sys_created_on><sys_id>aaf568f6c32230100f24c87af040dd16</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Collab Chat Search Profile</sys_name><sys_package display_value="Omni-Experience Standard Feature Set" source="sn_oe_sfs">53b1b0e79761011018b2fa98c253afcc</sys_package><sys_policy/><sys_scope display_value="Omni-Experience Standard Feature Set">53b1b0e79761011018b2fa98c253afcc</sys_scope><sys_update_name>ais_search_profile_aaf568f6c32230100f24c87af040dd16</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>-592930500</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>2452766e1ba2461062f8ea46624bcb98</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e45a0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>Collab Chat Search Profile</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>ff807252824d4a10a3091913dc0f2962</update_guid>
+<update_guid_history>ff807252824d4a10a3091913dc0f2962:-592930500,bb807252ae4d4a10b46de732f153af61:-1533151197</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Integrations">aaa655c19f0322003be01050a57fcf65</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_template_4e02b13a9f1322003be01050a57fcfe4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_template"><sn_hr_core_template action="INSERT_OR_UPDATE"><active>false</active><assign_to/><assignment_option>skills_group</assignment_option><assignment_type/><date_offset_quantity/><date_offset_type/><date_offset_units/><description_for_employee/><due_date_source/><global>true</global><group/><groups/><link_element/><name>Request LOA</name><next/><next_child/><owning_group/><parent_case_table/><roles/><short_description>Template for Dental Benefits Enrollment Inquiry Service</short_description><short_description_for_employee/><show_on_template_bar>true</show_on_template_bar><show_translated_fields>false</show_translated_fields><stand_alone>false</stand_alone><sys_class_name>sn_hr_core_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-11-28 20:37:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4e02b13a9f1322003be01050a57fcfe4</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Request LOA</sys_name><sys_package display_value="Human Resources: Integrations" source="sn_hr_integrations">aaa655c19f0322003be01050a57fcf65</sys_package><sys_policy/><sys_scope display_value="Human Resources: Integrations">aaa655c19f0322003be01050a57fcf65</sys_scope><sys_update_name>sn_hr_core_template_4e02b13a9f1322003be01050a57fcfe4</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-05-23 09:55:23</sys_updated_on><table>sn_hr_core_case_total_rewards</table><template>skills=b30370019f22120047a2d126c42e706f^short_description=Leave of Absence^EQ</template><template_reference/><template_reference_field/><use_assignment_date>false</use_assignment_date><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user><view/></sn_hr_core_template></record_update>]]></payload>
+<payload_hash>-511883938</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>2452766e1ba2461062f8ea46624bcbfd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18fa4e071680000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table>sn_hr_core_case_total_rewards</table>
+<target_name>Request LOA</target_name>
+<type>HR Template</type>
+<update_domain>global</update_domain>
+<update_guid>2c30cede2e1ac2105f1af2ae9a45c0da</update_guid>
+<update_guid_history>2c30cede2e1ac2105f1af2ae9a45c0da:-511883938,a430cedee31ac210567fba75fa3561d7:-511883938,a430cedeed1ac2100befdafa5d3ef8d5:-1146386495</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Conversational Interfaces - Diagnostics">434a64fd531db410f738ddeeff7b12c7</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_6dedf7608742cd50b6edcbfc0ebb358f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description/><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>Diagnostics Content Search Profile</label><name>sn_ci_diagnostics_diagnostics_content_search_profile</name><publish_id>c8f733aa-f980-4b1a-bb64-29ceaf034246</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>PUBLISHED</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-02 13:35:29</sys_created_on><sys_id>6dedf7608742cd50b6edcbfc0ebb358f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Diagnostics Content Search Profile</sys_name><sys_package display_value="Conversational Interfaces - Diagnostics" source="sn_ci_diagnostics">434a64fd531db410f738ddeeff7b12c7</sys_package><sys_policy/><sys_scope display_value="Conversational Interfaces - Diagnostics">434a64fd531db410f738ddeeff7b12c7</sys_scope><sys_update_name>ais_search_profile_6dedf7608742cd50b6edcbfc0ebb358f</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>-133093528</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>2852766e1ba2461062f8ea46624bcb97</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e3be0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>Diagnostics Content Search Profile</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>f38072520d4d4a10fd0136e142112c55</update_guid>
+<update_guid_history>f38072520d4d4a10fd0136e142112c55:-133093528,bf807252244d4a10a42c6eba3523f453:1321354507</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Search Configurations for mobile">b3f3303477232300454792718a1061df</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_ed1cc641c7231010d558c943c7c260c5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description>Search result configuration for Now Mobile app</description><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>NowMobile Default Search Profile</label><name>sn_me_search_now_mobile_search_result_configuration</name><publish_id>23c24f00-f49c-44d1-b906-945d5341e7d9</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>PUBLISHED</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-27 19:35:39</sys_created_on><sys_id>ed1cc641c7231010d558c943c7c260c5</sys_id><sys_mod_count>2</sys_mod_count><sys_name>NowMobile Default Search Profile</sys_name><sys_package display_value="Search Configurations for mobile" source="sn_me_search">b3f3303477232300454792718a1061df</sys_package><sys_policy/><sys_scope display_value="Search Configurations for mobile">b3f3303477232300454792718a1061df</sys_scope><sys_update_name>ais_search_profile_ed1cc641c7231010d558c943c7c260c5</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>-67802978</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>2852766e1ba2461062f8ea46624bcbfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e4e70000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>NowMobile Default Search Profile</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>7f807252144d4a100ff6730ab49d596f</update_guid>
+<update_guid_history>7f807252144d4a100ff6730ab49d596f:-67802978,3b807252234d4a107b9a03a2cec6ff6e:2084231905</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_a4ca798ffffc21105841c9b7cddcbda7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description>This is the search profile used in AI Search Assist for HR general enquiry use cases, containing KB and Catalog search sources</description><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>[AI Search Assist - Long Text to Query] - KB and Catalog</label><name>esc_aisa_long_text_to_query_search_profile</name><publish_id>2674eeaf-1c08-4d81-b0c1-3d0585773046</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>PUBLISHED</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-08 11:30:57</sys_created_on><sys_id>a4ca798ffffc21105841c9b7cddcbda7</sys_id><sys_mod_count>2</sys_mod_count><sys_name>[AI Search Assist - Long Text to Query] - KB and Catalog</sys_name><sys_package display_value="Content Taxonomy" source="com.snc.taxonomy">87dc04b55834311095d71ac54668017c</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ais_search_profile_a4ca798ffffc21105841c9b7cddcbda7</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>-182218902</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>6052766e1ba2461062f8ea46624bcb98</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e4350000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>[AI Search Assist - Long Text to Query] - KB and Catalog</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>3b8072526e4d4a1064d7ccdb31f4ef5f</update_guid>
+<update_guid_history>3b8072526e4d4a1064d7ccdb31f4ef5f:-182218902,f38072521f4d4a10da33e3f585dfec5e:-1532577735</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Integrations">aaa655c19f0322003be01050a57fcf65</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_service_3d0be6435375001050f4ddeeff7b12b5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_service"><sn_hr_core_service action="INSERT_OR_UPDATE"><active>false</active><approval_options/><at_a_glance_uib_view display_value="At a Glance UIB" name="ataglance_uib">88c750695331301038e4ddeeff7b12ca</at_a_glance_uib_view><at_a_glance_view display_value="At a Glance" name="ataglance">bca2a4f3b73333001d69c2daee11a9bb</at_a_glance_view><auto_close_case>false</auto_close_case><auto_close_offset/><badge display_value="HR">6439a617c3b00300b599b4ad81d3ae57</badge><case_creation_service_config/><case_options/><close_when/><description/><flow/><fulfillment_instructions/><fulfillment_type>service_activity</fulfillment_type><header_config_opened_for display_value="Default for opened for/approver">86d9872eb3900300f5302ddc16a8dc8b</header_config_opened_for><header_config_subject_person display_value="Default for subject person/task assigned to">c4e9872eb3900300f5302ddc16a8dc91</header_config_subject_person><hr_criteria/><journey_config/><le_type/><name>Complete Tax Forms through CIC Plus</name><producer/><service_table>sn_hr_core_case_talent_management</service_table><service_table_fields/><subject_person_access>true</subject_person_access><subject_person_related_lists/><sys_class_name>sn_hr_core_service</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-23 07:04:38</sys_created_on><sys_domain>global</sys_domain><sys_id>3d0be6435375001050f4ddeeff7b12b5</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Complete Tax Forms through CIC Plus</sys_name><sys_package display_value="Human Resources: Integrations" source="sn_hr_integrations">aaa655c19f0322003be01050a57fcf65</sys_package><sys_policy/><sys_scope display_value="Human Resources: Integrations">aaa655c19f0322003be01050a57fcf65</sys_scope><sys_update_name>sn_hr_core_service_3d0be6435375001050f4ddeeff7b12b5</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:07:29</sys_updated_on><template display_value="Complete Tax Forms through CIC Plus">ee6d6e075375001050f4ddeeff7b126e</template><topic_detail display_value="Collect Tax Forms">472ca6075375001050f4ddeeff7b1294</topic_detail><value>complete_tax_forms_through_cic_plus</value><workflow_detail/></sn_hr_core_service><sys_translated_text action="delete_multiple" query="documentkey=3d0be6435375001050f4ddeeff7b12b5"/><sys_translated_text action="INSERT_OR_UPDATE"><documentkey>3d0be6435375001050f4ddeeff7b12b5</documentkey><fieldname>name</fieldname><language>es</language><sys_created_by/><sys_created_on/><sys_id>dcd1e84847b0ce500aeaa144846d4355</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><tablename>sn_hr_core_service</tablename><value>Completar formularios fiscales con CIC Plus</value></sys_translated_text></record_update>]]></payload>
+<payload_hash>-1344956625</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>6052766e1ba2461062f8ea46624bcbfd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a13c040000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>Complete Tax Forms through CIC Plus</target_name>
+<type>HR Service</type>
+<update_domain>global</update_domain>
+<update_guid>1d60fa125f4d4a10bc81dee6b11442c7</update_guid>
+<update_guid_history>1d60fa125f4d4a10bc81dee6b11442c7:-1344956625,1160fa12f64d4a10d8c7bfd7e8b9f2c6:-246396100</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Agent Workspace for HR Case Management">ff837553a1112010db4143775de96b71</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_51f236b9775211103055e87dbd5a994c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description/><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>[AIS] HR agent workspace search profile</label><name>sn_hr_agent_ws_hr_agent_workspace_ais_search_profile</name><publish_id>112a7ebb-5b40-4bd3-82c4-b1dd2516db4c</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>DRAFT</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-03 11:47:07</sys_created_on><sys_id>51f236b9775211103055e87dbd5a994c</sys_id><sys_mod_count>4</sys_mod_count><sys_name>[AIS] HR agent workspace search profile</sys_name><sys_package display_value="Agent Workspace for HR Case Management" source="sn_hr_agent_ws">ff837553a1112010db4143775de96b71</sys_package><sys_policy/><sys_scope display_value="Agent Workspace for HR Case Management">ff837553a1112010db4143775de96b71</sys_scope><sys_update_name>ais_search_profile_51f236b9775211103055e87dbd5a994c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>-390513929</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>6452766e1ba2461062f8ea46624bcb97</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e39b0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>[AIS] HR agent workspace search profile</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>fb807252914d4a1023c86ed04074b951</update_guid>
+<update_guid_history>fb807252914d4a1023c86ed04074b951:-390513929,70c91f5ca6054210162175ea720400a4:1416535826,ecc91f5c540542103c66a6784621c7a2:1731219237</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_bd568e85772300102d71af6168106198</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description>The default Search Profile for Service Portal</description><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly>ml_x_snc_global_global_genius_search_person_hr_itsm_2</genius_result_assembly><label>Service Portal Default Search Profile</label><name>service_portal_default_search_profile</name><publish_id>ed512463-ca9b-415b-ac16-2e81bbb84103</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>PUBLISHED</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-12 22:59:05</sys_created_on><sys_id>bd568e85772300102d71af6168106198</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Service Portal Default Search Profile</sys_name><sys_package display_value="Service Portal - Core" source="com.glide.service-portal">5fa9083158f0311095d71ac546680122</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ais_search_profile_bd568e85772300102d71af6168106198</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>-1135613680</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>6c52766e1ba2461062f8ea46624bcb98</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e4c60000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>Service Portal Default Search Profile</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>b78072524d4d4a100aa7c6c2b3b7e36c</update_guid>
+<update_guid_history>b78072524d4d4a100aa7c6c2b3b7e36c:-1135613680,73807252204d4a10f6c8730164daaf6b:238064983</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="AI Search For Next Experience">3c467b5f0bf130109e0fa4e6e9c4c946</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_12bf8fe1531201107f03ddeeff7b1224</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description/><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>Next Experience Search Configuration</label><name>next_experience_search_configuration</name><publish_id/><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>NEW</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-17 23:02:47</sys_created_on><sys_id>12bf8fe1531201107f03ddeeff7b1224</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Next Experience Search Configuration</sys_name><sys_package display_value="AI Search For Next Experience" source="sn_aisearch_global">3c467b5f0bf130109e0fa4e6e9c4c946</sys_package><sys_policy/><sys_scope display_value="AI Search For Next Experience">3c467b5f0bf130109e0fa4e6e9c4c946</sys_scope><sys_update_name>ais_search_profile_12bf8fe1531201107f03ddeeff7b1224</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>1119778339</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>a052766e1ba2461062f8ea46624bcb97</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e3800000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>Next Experience Search Configuration</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>f38072527b4d4a10300d4a71bbc4994f</update_guid>
+<update_guid_history>f38072527b4d4a10300d4a71bbc4994f:1119778339,bf8072521f4d4a106e6df105ee87dd4d:-1262201800</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_b8bc699a67621010b3d782f45685efa5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description>This is the search profile used in AI Search Assist, containing KB and Catalog search sources.</description><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>[AI Search Assist] - KB and Catalog</label><name>ai_search_assist_kb_and_catalog</name><publish_id>13898152-a20f-4b84-842e-effbf4cabe78</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>PUBLISHED</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-12 21:28:46</sys_created_on><sys_id>b8bc699a67621010b3d782f45685efa5</sys_id><sys_mod_count>5</sys_mod_count><sys_name>[AI Search Assist] - KB and Catalog</sys_name><sys_package display_value="AI Search Assist" source="com.snc.ai_search_assist">6accc8755834311095d71ac54668018b</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ais_search_profile_b8bc699a67621010b3d782f45685efa5</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>1308653543</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>a852766e1ba2461062f8ea46624bcb98</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e4a40000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>[AI Search Assist] - KB and Catalog</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>ff807252504d4a10d0f3678d08edcc68</update_guid>
+<update_guid_history>ff807252504d4a10d0f3678d08edcc68:1308653543,bb807252e34d4a107adfc24dc0882667:-325602096</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Service Operations Workspace Core">5ca1bcb3733320103e366238edf6a706</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_82d4697943a151103084a921eab8f2d1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description>This is the AIS profile for Service Operations Workspace</description><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>Service Operations Workspace Search Profile</label><name>service_operations_workspace_search_config</name><publish_id/><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>NEW</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-26 23:18:22</sys_created_on><sys_id>82d4697943a151103084a921eab8f2d1</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Operations Workspace Search Profile</sys_name><sys_package display_value="Service Operations Workspace Core" source="sn_sow">5ca1bcb3733320103e366238edf6a706</sys_package><sys_policy/><sys_scope display_value="Service Operations Workspace Core">5ca1bcb3733320103e366238edf6a706</sys_scope><sys_update_name>ais_search_profile_82d4697943a151103084a921eab8f2d1</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>1004492360</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>ac52766e1ba2461062f8ea46624bcb97</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e40c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>Service Operations Workspace Search Profile</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>738072528f4d4a10ba6f9aeb10f5aa5c</update_guid>
+<update_guid_history>738072528f4d4a10ba6f9aeb10f5aa5c:1004492360,3f807252a84d4a10887b4248a1b7855a:-1591961449</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Human Resources: Integrations">aaa655c19f0322003be01050a57fcf65</application>
+<category>customer</category>
+<comments/>
+<name>sn_hr_core_criteria_31bb8bf95316001050f4ddeeff7b120c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_hr_core_criteria"><sn_hr_core_criteria action="INSERT_OR_UPDATE"><active>false</active><description/><name>US Employees - Tax forms Collection</name><related_user_criteria display_value="US Employees - Tax forms Collection (HR Criteria)">0df7e9631be2b91062f8ea46624bcb73</related_user_criteria><sys_class_name>sn_hr_core_criteria</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-13 08:39:09</sys_created_on><sys_domain>global</sys_domain><sys_id>31bb8bf95316001050f4ddeeff7b120c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>US Employees - Tax forms Collection</sys_name><sys_package display_value="Human Resources: Integrations" source="sn_hr_integrations">aaa655c19f0322003be01050a57fcf65</sys_package><sys_policy/><sys_scope display_value="Human Resources: Integrations">aaa655c19f0322003be01050a57fcf65</sys_scope><sys_update_name>sn_hr_core_criteria_31bb8bf95316001050f4ddeeff7b120c</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-17 11:08:26</sys_updated_on><table/><user_column/></sn_hr_core_criteria></record_update>]]></payload>
+<payload_hash>-45919761</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>ac52766e1ba2461062f8ea46624bcbfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e4c193e5c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>US Employees - Tax forms Collection</target_name>
+<type>HR Criteria</type>
+<update_domain>global</update_domain>
+<update_guid>9d6e49b4008d8210448958af3a94eede</update_guid>
+<update_guid_history>9d6e49b4008d8210448958af3a94eede:-45919761,9d6e49b4898d8210049a6ccb290c08dd:558407078</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_b6ef671ddcf55510f877b9fffe5b8e91</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description/><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>[CSM AIS] Configurable Workspace Search Config</label><name>csm_ais_configurable_workspace_search_config</name><publish_id>17debfe4-2027-4fc9-b3e6-2ff75a1a67a2</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>DRAFT</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>maint</sys_created_by><sys_created_on>2022-09-07 06:24:44</sys_created_on><sys_id>b6ef671ddcf55510f877b9fffe5b8e91</sys_id><sys_mod_count>3</sys_mod_count><sys_name>[CSM AIS] Configurable Workspace Search Config</sys_name><sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc">27b568be53b11010d4f9ddeeff7b12c5</sys_package><sys_policy/><sys_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</sys_scope><sys_update_name>ais_search_profile_b6ef671ddcf55510f877b9fffe5b8e91</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>1894043184</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>e452766e1ba2461062f8ea46624bcb98</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e47c0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>[CSM AIS] Configurable Workspace Search Config</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>f7807252864d4a104f40bad4de542f65</update_guid>
+<update_guid_history>f7807252864d4a104f40bad4de542f65:1894043184,f9b99b5c4e054210f557908a3fb1d0a4:-1529761861,75b99b5c8a054210fd6aae2257b6f7a3:908826254</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_721bfee55b7120109779b9a23381c7e8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description>The default search profile for help panel</description><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>Help Panel Search Profile</label><name>help_panel_search_profile</name><publish_id>797c09f7-4539-404a-873d-e4d914b322c6</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>PUBLISHED</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-19 08:40:13</sys_created_on><sys_id>721bfee55b7120109779b9a23381c7e8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Help Panel Search Profile</sys_name><sys_package display_value="ServiceNow Help and Guidance Backend" source="com.glide.sn_help">900b403958f0311095d71ac54668019e</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ais_search_profile_721bfee55b7120109779b9a23381c7e8</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>-1339892821</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>e852766e1ba2461062f8ea46624bcb97</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e3e10000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>Help Panel Search Profile</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>bb807252a74d4a1009905d010f0e0b58</update_guid>
+<update_guid_history>bb807252a74d4a1009905d010f0e0b58:-1339892821,77807252ca4d4a10b5459ffebcb78e57:1586063958</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_fd6491cb53171010069addeeff7b123f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description>The default Search Profile for ESC Portal</description><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>ESC Portal Default Search Profile</label><name>sn_hr_sp_esc_search_result_configuration</name><publish_id>eaf2f032-dc50-4c7e-aabc-c7f6f3115965</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>PUBLISHED</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-21 10:32:45</sys_created_on><sys_id>fd6491cb53171010069addeeff7b123f</sys_id><sys_mod_count>139</sys_mod_count><sys_name>ESC Portal Default Search Profile</sys_name><sys_package display_value="Employee Center Core" source="sn_hr_sp">3d1da2705b021200a4656ede91f91ab6</sys_package><sys_policy/><sys_scope display_value="Employee Center Core">3d1da2705b021200a4656ede91f91ab6</sys_scope><sys_update_name>ais_search_profile_fd6491cb53171010069addeeff7b123f</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>-14320463</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>e852766e1ba2461062f8ea46624bcbfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e50d0000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>ESC Portal Default Search Profile</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>37807252e74d4a10bf4e5fc2fe15b973</update_guid>
+<update_guid_history>37807252e74d4a10bf4e5fc2fe15b973:-14320463,ff8072527c4d4a106f06f8e5773bdd71:1340448116</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>ais_search_profile_0d6e994dc30101103f4fcd7b7940ddf6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile"><ais_search_profile action="INSERT_OR_UPDATE"><active>true</active><description>This is the AIS profile to search KB articles through quick actions</description><exclude_from_evaluation>false</exclude_from_evaluation><genius_result_assembly/><label>Quick Action - KB Search Profile</label><name>quick_action_kb_search_profile</name><publish_id>9b26d123-4865-4986-a07d-828cad72b5fa</publish_id><qna_model_id>bert-qa-model-1.1.6</qna_model_id><state>PUBLISHED</state><sys_class_name>ais_search_profile</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-12 22:13:26</sys_created_on><sys_id>0d6e994dc30101103f4fcd7b7940ddf6</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Quick Action - KB Search Profile</sys_name><sys_package display_value="Glide Conversation Server" source="com.glide.cs">0e9e40315874311095d71ac5466801dc</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ais_search_profile_0d6e994dc30101103f4fcd7b7940ddf6</sys_update_name><sys_updated_by>aaron.admin</sys_updated_by><sys_updated_on>2024-03-22 10:08:12</sys_updated_on></ais_search_profile></record_update>]]></payload>
+<payload_hash>1768034780</payload_hash>
+<remote_update_set display_value="Human Resources: Integrations">e852766e1ba2461062f8ea46624bcb96</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>aaron.admin</sys_created_by>
+<sys_created_on>2024-06-05 18:28:34</sys_created_on>
+<sys_id>ec52766e1ba2461062f8ea46624bcb96</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>18e65a1e3530000001</sys_recorded_at>
+<sys_updated_by>aaron.admin</sys_updated_by>
+<sys_updated_on>2024-06-05 18:28:34</sys_updated_on>
+<table/>
+<target_name>Quick Action - KB Search Profile</target_name>
+<type>AI Search Search Profile</type>
+<update_domain>global</update_domain>
+<update_guid>eb807252154d4a10b6e004229deb484b</update_guid>
+<update_guid_history>eb807252154d4a10b6e004229deb484b:1768034780,23807252384d4a10dbc418da81b20e4a:-1564190813</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
